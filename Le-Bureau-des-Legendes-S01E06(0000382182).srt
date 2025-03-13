@@ -1,0 +1,2918 @@
+﻿1
+00:00:09,729 --> 00:00:15,072
+OSOBY A DĚJ JSOU SMYŠLENÉ,
+PODOBNOST SE SKUTEČNOSTÍ JE ČISTĚ NÁHODNÁ
+
+2
+00:00:15,192 --> 00:00:19,349
+ODDĚLENÍ KRYCÍCH LEGEND
+Překlad: datel071
+
+3
+00:00:55,922 --> 00:00:59,112
+TERMINÁL ZÁPAD
+
+4
+00:01:08,264 --> 00:01:11,247
+Vjíždíme do parkingu.
+Asi se to přeruší.
+
+5
+00:01:13,120 --> 00:01:15,003
+SIGNÁL NEDOSTUPNÝ
+
+6
+00:01:15,029 --> 00:01:16,050
+Jo.
+
+7
+00:01:17,675 --> 00:01:20,253
+Nechce, abychom ho lokalizovali.
+
+8
+00:01:31,811 --> 00:01:33,043
+Až dozadu.
+
+9
+00:01:39,363 --> 00:01:42,662
+Vyjeďte do mínus jedničky,
+ohlaste se a čekejte.
+
+10
+00:01:42,697 --> 00:01:44,521
+Rozumím. Buďte opatrný.
+
+11
+00:01:44,545 --> 00:01:45,750
+Díky.
+
+12
+00:02:15,682 --> 00:02:17,424
+- Chceš taky?
+- Ne, dík.
+
+13
+00:02:19,418 --> 00:02:21,687
+<i>Míří k vám dva skútry.</i>
+
+14
+00:02:21,723 --> 00:02:23,139
+Jasně, dík.
+
+15
+00:02:40,837 --> 00:02:42,843
+- Jdeme.
+- Počkej.
+
+16
+00:03:01,913 --> 00:03:03,602
+Tak jo, jdeme na to.
+
+17
+00:03:33,393 --> 00:03:36,133
+<i>- Jedou na A86.</i>
+- Rozumím.
+
+18
+00:03:48,029 --> 00:03:49,920
+Ellensteine, jak to vypadá před námi?
+
+19
+00:03:52,172 --> 00:03:53,888
+Po 300 metrech je zácpa.
+
+20
+00:04:01,391 --> 00:04:02,421
+Ztratím je!
+
+21
+00:04:05,104 --> 00:04:06,784
+- Co mám dělat?
+- Sjeď.
+
+22
+00:04:10,242 --> 00:04:11,526
+Ty zůstaň.
+
+23
+00:04:13,418 --> 00:04:15,564
+<i>Teď doprava.
+Je tam průmyslová zóna.</i>
+
+24
+00:04:17,684 --> 00:04:19,904
+<i>Na konci skladů zahni doleva.</i>
+
+25
+00:04:20,507 --> 00:04:21,801
+<i>Šlápni na to.</i>
+
+26
+00:04:24,563 --> 00:04:26,355
+- Můžu zapnout maják?
+<i>- Ne.</i>
+
+27
+00:04:26,381 --> 00:04:28,246
+<i>- Přidej.</i>
+- Co když někoho přejedu?
+
+28
+00:04:28,880 --> 00:04:31,070
+<i>Doleva. Soustřeď se.</i>
+
+29
+00:04:31,114 --> 00:04:32,883
+Mám se soustředit?
+
+30
+00:04:32,918 --> 00:04:35,733
+<i>Po 400 metrech
+najedeš zpátky na dálnici.</i>
+
+31
+00:04:35,757 --> 00:04:37,086
+<i>Rozumím.</i>
+
+32
+00:04:40,367 --> 00:04:42,672
+<i>- 300 metrů.</i>
+- Jo. Nejsem slepá.
+
+33
+00:04:42,945 --> 00:04:44,080
+<i>50 metrů.</i>
+
+34
+00:04:49,317 --> 00:04:51,261
+<i>Měla bys je mít přímo před sebou.</i>
+
+35
+00:04:54,279 --> 00:04:55,704
+Jo, vidím je.
+
+36
+00:05:10,039 --> 00:05:12,432
+- A jsme, kde jsme byli.
+- Cože?
+
+37
+00:05:12,458 --> 00:05:14,086
+<i>Parking 8. Cargo zóna.</i>
+
+38
+00:05:21,221 --> 00:05:23,534
+<i>Sjíždíme dolů. Kde jste vy?</i>
+
+39
+00:05:23,570 --> 00:05:25,681
+Už se to pohnulo, za chvíli jsme tam.
+
+40
+00:06:15,300 --> 00:06:17,385
+<i>Ty skútry odjíždějí.
+Mám je sledovat?</i>
+
+41
+00:06:17,412 --> 00:06:19,321
+Ne, budeme se držet Guillauma.
+
+42
+00:06:20,473 --> 00:06:22,681
+ZAŘÍZENÍ XB37
+SE POKOUŠÍ NAVÁZAT SPOJENÍ
+
+43
+00:06:22,706 --> 00:06:23,799
+PŘIJMOUT
+
+44
+00:06:23,823 --> 00:06:25,680
+NAŠEL JSEM VÁŠ SKÚTR
+
+45
+00:06:27,844 --> 00:06:29,603
+Asi dostal esemesku.
+
+46
+00:06:32,266 --> 00:06:33,805
+Není tady signál.
+
+47
+00:06:36,691 --> 00:06:39,119
+Není to esemeska, ale bluetooth.
+
+48
+00:06:43,993 --> 00:06:45,691
+Musí být někde tady.
+
+49
+00:06:46,606 --> 00:06:48,515
+Jsme moc daleko, jdu to omrknout.
+
+50
+00:06:56,879 --> 00:06:59,360
+- JE V DOBRÉM STAVU?
+- ANO.
+
+51
+00:07:01,648 --> 00:07:03,082
+JAKOU MÁM ZÁRUKU?
+
+52
+00:07:04,437 --> 00:07:05,706
+NAČÍTÁM SOUBOR
+
+53
+00:07:26,488 --> 00:07:28,099
+KDE JE?
+
+54
+00:07:28,133 --> 00:07:29,682
+V GARÁŽI.
+
+55
+00:07:42,413 --> 00:07:43,504
+Haló?
+
+56
+00:07:45,862 --> 00:07:46,918
+Haló?
+
+57
+00:07:47,217 --> 00:07:48,642
+Neslyším tě.
+
+58
+00:07:49,047 --> 00:07:50,560
+Brnknu ti pak.
+
+59
+00:07:55,884 --> 00:07:57,809
+ZA KOLIK?
+
+60
+00:07:58,127 --> 00:08:02,500
+NABÍDNĚTE CENU.
+
+61
+00:08:02,733 --> 00:08:05,443
+- KOMU?
+- ŠPATNÁ OTÁZKA.
+
+62
+00:08:08,746 --> 00:08:11,605
+NEKOUPÍM BEZ ZÁRUKY.
+
+63
+00:08:13,523 --> 00:08:15,827
+DRAŽBA KONČÍ ZA 2 DNY.
+
+64
+00:08:15,947 --> 00:08:17,323
+XB37 ODPOJEN
+
+65
+00:08:29,613 --> 00:08:33,140
+Dražba - jaká dražba?
+Chce ho prodat někomu jinému?
+
+66
+00:08:33,169 --> 00:08:36,416
+Ne. Spíš nám nabízí ke koupi
+informace o Hurikánovi.
+
+67
+00:08:36,442 --> 00:08:38,466
+Kde je a kdo ho zadržuje.
+
+68
+00:08:41,686 --> 00:08:43,146
+Poslal jsem ti link.
+
+69
+00:08:47,445 --> 00:08:49,750
+Ověřil jsem to. Je to ta samá fotka.
+
+70
+00:08:49,776 --> 00:08:52,926
+Nabízí ho za 140 000 EUR.
+Za tu cenu jsou jenom dva zájemci.
+
+71
+00:08:53,403 --> 00:08:55,400
+Aby ji vyšroubovali, to je jasné.
+
+72
+00:08:55,444 --> 00:08:57,679
+ÚČASTNÍCI DRAŽBY
+Secret Square - to mi došlo.
+
+73
+00:08:57,705 --> 00:09:00,608
+- Ale ten Hrůzostrašný...
+- Chce nás vyděsit.
+
+74
+00:09:01,954 --> 00:09:03,881
+Náš ilegál v dražbě na eBay.
+
+75
+00:09:07,961 --> 00:09:09,896
+Na tyhle hrátky nepřistoupím.
+
+76
+00:09:09,923 --> 00:09:13,002
+Jdu informovat ředitele,
+že nám Alžířané vyhlásili válku.
+
+77
+00:09:14,241 --> 00:09:15,482
+Počkejte.
+
+78
+00:09:16,907 --> 00:09:19,617
+A co když Hurikána nemají Alžířané...
+
+79
+00:09:20,998 --> 00:09:22,608
+ale jenom jeden Alžířan?
+
+80
+00:09:23,628 --> 00:09:25,641
+Proč je Pigalle tak opatrný?
+
+81
+00:09:25,685 --> 00:09:29,336
+Proč ten cirkus s parkingem,
+skútry a s bluetooth?
+
+82
+00:09:31,366 --> 00:09:34,128
+Alžírské tajné služby mají
+Hurikána a oznámí nám to.
+
+83
+00:09:34,163 --> 00:09:35,351
+Souhlas?
+
+84
+00:09:36,565 --> 00:09:39,248
+Proč to neudělají obvyklou cestou?
+Vždyť spolu mluvíme.
+
+85
+00:09:40,137 --> 00:09:42,864
+K čemu potřebují
+anonymního prostředníka?
+
+86
+00:09:42,881 --> 00:09:45,362
+- Bojí se, že ho identifikujeme?
+- Proč?
+
+87
+00:09:45,802 --> 00:09:48,142
+Co se stane,
+když Pigalla identifikujeme?
+
+88
+00:09:48,160 --> 00:09:49,409
+Co se tím změní?
+
+89
+00:09:49,436 --> 00:09:50,886
+Nic.
+
+90
+00:09:50,909 --> 00:09:52,584
+Tak proč se skrývá?
+
+91
+00:09:53,895 --> 00:09:56,403
+Když ho identifikujeme,
+bude v maléru.
+
+92
+00:09:56,438 --> 00:09:57,573
+Proč?
+
+93
+00:09:58,180 --> 00:10:00,925
+- No, protože by nastaly potíže.
+- Proč?
+
+94
+00:10:01,611 --> 00:10:03,922
+Protože bychom mu je způsobili my?
+
+95
+00:10:04,318 --> 00:10:05,389
+Jo.
+
+96
+00:10:06,227 --> 00:10:07,300
+Jak?
+
+97
+00:10:08,374 --> 00:10:09,878
+Vyzradili bychom ho.
+
+98
+00:10:09,905 --> 00:10:11,690
+- Komu?
+- Alžířanům.
+
+99
+00:10:11,726 --> 00:10:15,813
+Pigalle jedná za jejich zády.
+Hurikána nemají Alžířané.
+
+100
+00:10:15,850 --> 00:10:16,880
+Má ho Pigalle.
+
+101
+00:10:19,730 --> 00:10:21,630
+Musíme ho identifikovat.
+
+102
+00:10:43,727 --> 00:10:45,965
+Viděl jsem,
+že jste si objednala taxi.
+
+103
+00:10:45,997 --> 00:10:48,190
+Ano. Chci vyrazit na nákupy.
+
+104
+00:10:48,226 --> 00:10:49,765
+Můžu vás doprovodit.
+
+105
+00:10:49,809 --> 00:10:52,197
+To nebude třeba. Děkuji.
+
+106
+00:10:52,226 --> 00:10:55,315
+- Taxi už bude na cestě.
+- Dovolil jsem si ho zrušit.
+
+107
+00:10:56,013 --> 00:10:57,333
+Vyrazíme?
+
+108
+00:10:57,368 --> 00:11:00,412
+- Nakoupit si zvládnu sama.
+- O tom nepochybuji, madam.
+
+109
+00:11:00,439 --> 00:11:04,762
+Ale dokud máme pochybnosti
+o lidech, se kterými se stýkáte,
+
+110
+00:11:04,791 --> 00:11:06,771
+neopustíte sama hotel.
+
+111
+00:11:07,396 --> 00:11:09,604
+Samozřejmě s výjimkou vaší práce.
+
+112
+00:11:10,037 --> 00:11:11,981
+Něco jsem vám přinesl.
+
+113
+00:11:12,711 --> 00:11:15,170
+Suši? Říkal jsem si,
+že by vám mohlo chutnat.
+
+114
+00:11:18,259 --> 00:11:19,869
+Tak jo, já půjdu.
+
+115
+00:11:19,898 --> 00:11:22,649
+Kdybyste chtěla něco dalšího,
+klidně zavolejte.
+
+116
+00:11:23,230 --> 00:11:24,716
+Od toho tady jsme.
+
+117
+00:11:32,987 --> 00:11:35,125
+- Moučník.
+- Kde jste ho našel?
+
+118
+00:11:37,407 --> 00:11:38,648
+To sako?
+
+119
+00:11:39,088 --> 00:11:40,730
+Nenašel. Ukradl.
+
+120
+00:11:41,437 --> 00:11:43,120
+Co jste mu udělal?
+
+121
+00:11:43,311 --> 00:11:44,985
+Jenom jsme si pár věcí vyříkali.
+
+122
+00:11:45,184 --> 00:11:46,290
+Vyříkali?
+
+123
+00:11:52,402 --> 00:11:53,450
+Co to děláte?
+
+124
+00:11:53,897 --> 00:11:55,393
+Do toho vám nic není.
+
+125
+00:11:56,568 --> 00:11:59,274
+Nevolejte mu.
+Řeknu vám, jak na tom je.
+
+126
+00:11:59,394 --> 00:12:01,030
+Už se z toho oklepal.
+
+127
+00:12:04,560 --> 00:12:09,002
+<i>Volané číslo momentálně neodpovídá.</i>
+
+128
+00:12:18,623 --> 00:12:22,064
+Jestli to oznámí na policii
+a zburcuje novináře,
+
+129
+00:12:22,184 --> 00:12:23,675
+co uděláte?
+
+130
+00:12:24,114 --> 00:12:26,830
+S tím si hlavu nelamte.
+Neoznámil to.
+
+131
+00:12:27,368 --> 00:12:29,061
+Asi to nebylo tak vážné.
+
+132
+00:12:29,181 --> 00:12:31,435
+Anebo s policií nechce nic mít.
+
+133
+00:12:37,120 --> 00:12:39,030
+Kdybyste šla ven, dejte nám vědět.
+
+134
+00:12:39,384 --> 00:12:42,396
+A vybírejte si pořádné chlapy,
+ne takové chcípáčky.
+
+135
+00:12:42,587 --> 00:12:44,610
+Přepral by ho i můj synovec.
+
+136
+00:12:45,956 --> 00:12:47,329
+Nechte si chutnat.
+
+137
+00:13:39,779 --> 00:13:40,869
+Haló?
+
+138
+00:13:40,893 --> 00:13:43,060
+<i>Máte hovor, pane Lefebvre.</i>
+
+139
+00:13:43,086 --> 00:13:45,075
+- Kdo volá?
+<i>- Nějaká dáma.</i>
+
+140
+00:13:48,839 --> 00:13:49,930
+Nejsem tady.
+
+141
+00:13:54,118 --> 00:13:55,297
+Děkuji.
+
+142
+00:14:44,072 --> 00:14:47,442
+Pochroumal jsem si obratel,
+nemůžu nosit...
+
+143
+00:14:47,468 --> 00:14:49,971
+- Pomůžu ti.
+- Děkuju.
+
+144
+00:14:53,085 --> 00:14:55,487
+- Kam to chceš?
+- Do mé kanceláře.
+
+145
+00:14:56,956 --> 00:14:58,830
+Polož to sem.
+
+146
+00:15:01,878 --> 00:15:04,526
+Otevřeme to a lahve někam schováme.
+
+147
+00:15:05,265 --> 00:15:06,884
+Šampaňské? Bezva.
+
+148
+00:15:06,919 --> 00:15:09,591
+- Je pro nás?
+- Na pátek.
+
+149
+00:15:09,620 --> 00:15:11,023
+Co oslavujeme?
+
+150
+00:15:12,721 --> 00:15:14,455
+Umírám touhou to někomu vyklopit.
+
+151
+00:15:14,481 --> 00:15:17,903
+Ale necháš si to pro sebe.
+Do pátku nikomu ani slovo.
+
+152
+00:15:17,930 --> 00:15:20,967
+Jedu do Íránu. Mortazaví mi
+včera volal. Je to oficiální.
+
+153
+00:15:21,002 --> 00:15:22,756
+- Kecáš.
+- Nekecám.
+
+154
+00:15:23,495 --> 00:15:26,934
+- Gratuluju, to je super.
+- Jo, jsem z toho na větvi.
+
+155
+00:15:26,970 --> 00:15:28,271
+To je fajn.
+
+156
+00:15:28,904 --> 00:15:30,664
+- Tak zatím.
+- Zatím.
+
+157
+00:15:34,949 --> 00:15:36,260
+Šampaňské?
+
+158
+00:15:37,922 --> 00:15:40,122
+Koukám, že vědátory
+platí líp než nás.
+
+159
+00:15:40,148 --> 00:15:41,714
+Co budeme dělat?
+
+160
+00:15:42,040 --> 00:15:43,571
+S čím?
+
+161
+00:15:43,597 --> 00:15:45,977
+Jsme v loji, ne? Odjíždí on.
+
+162
+00:15:47,649 --> 00:15:48,951
+Hej! On. Ne já.
+
+163
+00:15:48,977 --> 00:15:51,449
+To já jsem měla odjet
+do Íránu, vzpomínáte?
+
+164
+00:15:53,359 --> 00:15:54,643
+Jejda. Omlouvám se.
+
+165
+00:15:58,954 --> 00:16:00,854
+Máš pravdu, jsi v loji.
+Musíš odjet.
+
+166
+00:16:00,889 --> 00:16:03,045
+- No právě. Tak co uděláme?
+- Ne.
+
+167
+00:16:03,080 --> 00:16:04,443
+Co uděláš ty?
+
+168
+00:16:05,481 --> 00:16:06,572
+Ale...
+
+169
+00:16:07,026 --> 00:16:09,990
+Ale co? Máma s tátou
+tě nebudou pořád vodit za ručičku.
+
+170
+00:16:10,404 --> 00:16:13,553
+- Já vím, ale tahle mise je...
+- A tam?
+
+171
+00:16:14,433 --> 00:16:16,310
+Myslíš, že tam to bude snazší?
+
+172
+00:16:16,703 --> 00:16:20,006
+Budeš se muset rozhodovat sama.
+Myslíš, že to bude snazší?
+
+173
+00:16:20,569 --> 00:16:22,751
+Když budu mít problém,
+tak mi pomůžete, ne?
+
+174
+00:16:22,777 --> 00:16:24,308
+Jasně že ti pomůžeme.
+
+175
+00:16:24,334 --> 00:16:26,516
+Budeme tu pro tebe 24 hodin denně.
+
+176
+00:16:27,000 --> 00:16:28,919
+Ale myslíš, že vyřešíme všechno?
+
+177
+00:16:29,315 --> 00:16:31,980
+Tady jsi v Paříži a už chceš,
+abysme tě opečovávali.
+
+178
+00:16:32,007 --> 00:16:33,080
+Ne.
+
+179
+00:16:38,166 --> 00:16:39,688
+Nezlámeš mu obě nohy.
+
+180
+00:16:39,723 --> 00:16:41,878
+Nedáš mu do kafe kyanid.
+
+181
+00:16:41,905 --> 00:16:43,911
+Nenapadneš jeho rodinu.
+
+182
+00:16:43,937 --> 00:16:47,271
+Můžeš ho zkusit vydírat, ale pokaždé
+to nefunguje. Spíš výjimečně.
+
+183
+00:16:47,298 --> 00:16:50,408
+Když musíš přitlačit, přitlač.
+Ale nezanechej fyzické stopy.
+
+184
+00:16:52,150 --> 00:16:53,364
+Jejdanánku!
+
+185
+00:16:54,094 --> 00:16:56,144
+Tady se nám někdo rozbrečí.
+
+186
+00:16:56,825 --> 00:16:58,348
+Dostaneme se z toho?
+
+187
+00:17:00,466 --> 00:17:01,716
+Ty to zvládneš.
+
+188
+00:17:02,279 --> 00:17:03,906
+Proto jsme si tě vybrali.
+
+189
+00:17:05,799 --> 00:17:08,956
+Pro ten tvůj naivní kukuč.
+
+190
+00:17:10,993 --> 00:17:12,075
+Fajn.
+
+191
+00:17:23,115 --> 00:17:24,593
+Tak jo. Jedeme?
+
+192
+00:17:31,085 --> 00:17:32,343
+Děkuju.
+
+193
+00:17:33,346 --> 00:17:36,839
+- Poslyšte, nemohl byste mi...
+- Ani to nezkoušej, děvče.
+
+194
+00:17:37,481 --> 00:17:38,572
+Tak jo.
+
+195
+00:17:42,544 --> 00:17:44,497
+Zabal si košile s dlouhým rukávem.
+
+196
+00:17:44,524 --> 00:17:46,231
+Žádné křiklavé barvy -
+
+197
+00:17:46,257 --> 00:17:48,360
+třeba šedé, černé,
+
+198
+00:17:48,395 --> 00:17:51,970
+- hlavně kvůli úřadům.
+- Dobře, rozumím.
+
+199
+00:17:52,005 --> 00:17:53,807
+Peníze si vyměň už tady...
+
+200
+00:18:10,894 --> 00:18:12,706
+<i>- Jo?</i>
+- Máš se?
+
+201
+00:18:12,733 --> 00:18:14,105
+<i>Fajn. Co ty?</i>
+
+202
+00:18:14,123 --> 00:18:15,900
+Dobře. Neruším?
+
+203
+00:18:15,926 --> 00:18:17,809
+<i>Jo. Ale to nic.</i>
+
+204
+00:18:18,766 --> 00:18:20,567
+<i>Chceš si jít zaběhat?</i>
+
+205
+00:18:20,605 --> 00:18:22,452
+Ne. Teda...
+
+206
+00:18:23,244 --> 00:18:25,232
+volám ti kvůli něčemu jinému.
+
+207
+00:18:33,754 --> 00:18:36,789
+Tak jo, Alžířané to nejsou.
+Aspoň něco. Tak kdo to je?
+
+208
+00:18:36,816 --> 00:18:38,276
+To zatím nevíme.
+
+209
+00:18:38,875 --> 00:18:40,203
+Vyjednává?
+
+210
+00:18:41,022 --> 00:18:42,368
+Snaží se.
+
+211
+00:18:42,403 --> 00:18:43,881
+Co chce?
+
+212
+00:18:45,660 --> 00:18:48,693
+Jestli si myslíš, že sáhneme
+do šrajtofle, zapomeň.
+
+213
+00:18:48,720 --> 00:18:51,782
+Vůbec ne, chtěl jsem tě
+jenom uklidnit. Nejsi klidnější?
+
+214
+00:18:51,809 --> 00:18:54,360
+Ale jo, hlavně mi řekni,
+že ho nemají salafisti.
+
+215
+00:18:54,395 --> 00:18:56,670
+Nemají ho salafisti.
+
+216
+00:18:56,700 --> 00:18:57,967
+Bezva.
+
+217
+00:19:01,719 --> 00:19:03,434
+Chtěl jsem ho krvavý.
+
+218
+00:19:05,194 --> 00:19:06,795
+Rémi Boisselier.
+
+219
+00:19:07,411 --> 00:19:09,487
+- Co je s ním?
+- Je to bratr mé ženy.
+
+220
+00:19:11,379 --> 00:19:13,042
+To jsem nevěděl.
+
+221
+00:19:13,077 --> 00:19:14,608
+Dělám si o něj starost.
+
+222
+00:19:15,232 --> 00:19:16,385
+Já taky.
+
+223
+00:19:16,772 --> 00:19:18,540
+Co je Felis? Výcvikový tábor?
+
+224
+00:19:21,326 --> 00:19:24,352
+- Taky jsem ti nemusel říkat o Hurikánovi.
+- Nemusel.
+
+225
+00:19:24,379 --> 00:19:25,760
+Budu si to pamatovat.
+
+226
+00:19:35,348 --> 00:19:36,747
+Felis je léčka.
+
+227
+00:19:36,774 --> 00:19:40,117
+Snažíme se dopadnout šéfa teroristů,
+po kterém už dlouho pasou Američani.
+
+228
+00:19:40,134 --> 00:19:41,278
+Říká si Šakal.
+
+229
+00:19:42,354 --> 00:19:45,284
+Kdyby se toho domákli Alžířani,
+celá operace by šla do kopru.
+
+230
+00:19:45,319 --> 00:19:47,290
+Děláme na tom jenom 18 měsíců.
+
+231
+00:19:47,316 --> 00:19:49,049
+Jak do toho zapadá Hurikán?
+
+232
+00:19:49,067 --> 00:19:52,049
+Jako analytik alžírské pobočky
+pomáhal určit místo.
+
+233
+00:19:52,586 --> 00:19:54,446
+Kde máme zřídit ošetřovnu.
+
+234
+00:19:54,472 --> 00:19:56,434
+Neví, k čemu slouží, ale ví, kde je.
+
+235
+00:19:56,478 --> 00:19:59,803
+Když všechno klapne, za týden
+mě ta tvoje historka už nebude zajímat.
+
+236
+00:19:59,839 --> 00:20:01,915
+Dopadneme Šakala a Felis skončí.
+
+237
+00:20:03,673 --> 00:20:07,007
+Žádám vás o jediné - deset dnů
+nechci žádná překvápka.
+
+238
+00:20:07,033 --> 00:20:09,242
+Nechci, aby v pasti
+skončili moji lidi.
+
+239
+00:20:10,007 --> 00:20:11,538
+A bratr tvojí ženy.
+
+240
+00:20:12,890 --> 00:20:14,562
+Už si můžu jít vyměnit to maso?
+
+241
+00:20:16,629 --> 00:20:17,861
+Děkuju.
+
+242
+00:20:48,848 --> 00:20:51,171
+Téhle frašky se účastnit nehodlám.
+
+243
+00:20:51,206 --> 00:20:53,761
+Dražba končí zítra.
+Co když Pigalla neidentifikujeme?
+
+244
+00:20:53,779 --> 00:20:56,128
+- Musíme. Nemáme na vybranou.
+- Tak dobře.
+
+245
+00:20:57,562 --> 00:20:59,612
+Sděluje nám,
+že prodá Hurikána komukoli.
+
+246
+00:20:59,638 --> 00:21:02,133
+A má pravdu.
+Za francouzského agenta dostane balík.
+
+247
+00:21:02,916 --> 00:21:05,080
+- Vy tomu věříte?
+- Vy snad ne?
+
+248
+00:21:06,602 --> 00:21:08,371
+Identifikujte toho parchanta.
+
+249
+00:21:08,406 --> 00:21:09,858
+- Rychle.
+- Dobře.
+
+250
+00:21:14,854 --> 00:21:17,212
+- Dokončil jsem přehled.
+- Pánové...
+
+251
+00:21:20,299 --> 00:21:24,344
+Yacine Belkacem je náš první kontakt.
+Pigalle patří do jeho okruhu.
+
+252
+00:21:24,370 --> 00:21:26,798
+Možná je jeho nadřízený,
+ale nemusí to tak být.
+
+253
+00:21:26,833 --> 00:21:30,203
+Pigalle je z oboru.
+Používá nestandardní metody.
+
+254
+00:21:37,399 --> 00:21:38,438
+Už jsou tady.
+
+255
+00:21:38,463 --> 00:21:40,187
+- Jak je na tom?
+- Je vyděšený.
+
+256
+00:21:40,205 --> 00:21:42,123
+- Co jsme mu řekli?
+- Nic.
+
+257
+00:21:42,149 --> 00:21:43,680
+Dobře. Ať jde dál.
+
+258
+00:21:49,378 --> 00:21:50,469
+Pojďte.
+
+259
+00:21:52,202 --> 00:21:53,409
+Pane Gherbi.
+
+260
+00:21:54,632 --> 00:21:56,787
+Pojďte dál. Posaďte se.
+
+261
+00:21:57,245 --> 00:22:00,281
+Jste laskav, že jste se obtěžoval.
+
+262
+00:22:00,311 --> 00:22:01,807
+Neměl jsem moc na vybranou.
+
+263
+00:22:02,370 --> 00:22:04,455
+Říkali jste, že mě necháte na pokoji.
+
+264
+00:22:04,481 --> 00:22:08,221
+Žádný strach. Potřebujeme jen vyladit
+nějaké administrativní záležitosti.
+
+265
+00:22:08,251 --> 00:22:10,855
+Jak se vám líbí v lázních?
+
+266
+00:22:10,881 --> 00:22:14,107
+Začal jsem zase kouřit.
+Tak tam pašuju cigarety.
+
+267
+00:22:14,635 --> 00:22:17,116
+Kdybyste cokoli potřeboval,
+obraťte se na nás.
+
+268
+00:22:22,612 --> 00:22:24,891
+Potřebuju povolení kouřit na pokoji.
+
+269
+00:22:24,926 --> 00:22:27,460
+Abych nemusel chodit do zahrady
+jako nějaký blbec.
+
+270
+00:22:27,477 --> 00:22:28,691
+Dostanete ho.
+
+271
+00:22:28,726 --> 00:22:32,140
+Mám pro vás nabídku.
+
+272
+00:22:33,108 --> 00:22:35,690
+Co byste chtěl dělat,
+až vám bude lépe?
+
+273
+00:22:36,385 --> 00:22:38,637
+Chci se vrátit domů. Proč?
+
+274
+00:22:39,147 --> 00:22:41,302
+Obávám se, že to by nebylo rozumné.
+
+275
+00:22:43,225 --> 00:22:44,299
+Proč?
+
+276
+00:22:44,317 --> 00:22:47,466
+Zemi jste opustil před měsícem.
+
+277
+00:22:47,492 --> 00:22:49,041
+Bylo to kvůli bratrovi.
+
+278
+00:22:49,560 --> 00:22:53,334
+A nechal jste všechno za sebou?
+Nezajímal jste se, co je nového?
+
+279
+00:22:53,369 --> 00:22:55,631
+To vy jste mi zakázali
+komunikovat s Alžírem.
+
+280
+00:22:55,645 --> 00:22:58,455
+Z bezpečnostních důvodů,
+které moc dobře znáte.
+
+281
+00:23:00,039 --> 00:23:02,159
+Chcete říct, že moje krytí je v háji?
+
+282
+00:23:04,664 --> 00:23:05,922
+Pravděpodobně.
+
+283
+00:23:08,738 --> 00:23:10,339
+Tak co budu dělat?
+
+284
+00:23:10,911 --> 00:23:14,931
+V DGSE nikdy nenecháváme lidi,
+co pro nás pracovali, na holičkách.
+
+285
+00:23:14,966 --> 00:23:19,006
+- Pro vás už pracovat nebudu.
+- Přestaňte fňukat.
+
+286
+00:23:19,024 --> 00:23:21,426
+Já ty vaše lázně moc dobře znám.
+
+287
+00:23:21,452 --> 00:23:24,083
+Jste tam jako v bavlnce.
+Netvrďte mi opak.
+
+288
+00:23:24,109 --> 00:23:26,813
+Potřebujeme vaše znalosti
+alžírských tajných služeb.
+
+289
+00:23:26,840 --> 00:23:28,578
+A vy nám pomůžete.
+
+290
+00:23:28,613 --> 00:23:30,478
+Nebo vás pošleme zpátky do Alžíru
+
+291
+00:23:30,505 --> 00:23:33,557
+a brzy zjistíte, že tam používají
+jiné zastrašovací metody než my.
+
+292
+00:23:49,096 --> 00:23:50,264
+Sakra!
+
+293
+00:23:57,931 --> 00:24:00,621
+Promiňte, nemáte náhodou pumpičku?
+
+294
+00:24:01,571 --> 00:24:03,612
+Ale jo. Máte prázdnou duši?
+
+295
+00:24:03,638 --> 00:24:05,748
+Nevím, možná je píchlá.
+
+296
+00:24:05,766 --> 00:24:07,376
+Na to jsem vybavený.
+
+297
+00:24:12,443 --> 00:24:13,481
+Paráda!
+
+298
+00:24:14,233 --> 00:24:16,230
+Mockrát děkuju za pomoc.
+
+299
+00:24:16,256 --> 00:24:17,945
+V pohodě, to je normální.
+
+300
+00:24:17,972 --> 00:24:20,972
+Ale jestli ti můžu radit,
+neměl bys jezdit do Íránu.
+
+301
+00:24:20,998 --> 00:24:23,382
+- Cože?
+- Neměl bys jezdit do Íránu.
+
+302
+00:24:25,463 --> 00:24:27,513
+- Jak víte, že tam jedu?
+- Náhoda.
+
+303
+00:24:28,639 --> 00:24:30,715
+Dělám na vízech.
+Poznal jsem tvůj ksicht.
+
+304
+00:24:30,741 --> 00:24:31,955
+- Vážně?
+- Jo.
+
+305
+00:24:33,530 --> 00:24:36,253
+- O jakém vízu to mluvíte?
+- Ještě nemáš vízum?
+
+306
+00:24:36,860 --> 00:24:38,567
+- Ne.
+- Tím líp.
+
+307
+00:24:39,332 --> 00:24:41,039
+Jsi Střelec, že jo?
+
+308
+00:24:41,065 --> 00:24:44,542
+- Jak to víte?
+- 26. listopad. To je Střelec.
+
+309
+00:24:44,903 --> 00:24:45,976
+No jo.
+
+310
+00:24:46,689 --> 00:24:47,982
+Střelec...
+
+311
+00:24:48,474 --> 00:24:51,914
+láska - bezchybné souznění
+s milovaným člověkem.
+
+312
+00:24:51,950 --> 00:24:55,678
+Kariéra - trocha snahy
+a dosáhnete svého cíle.
+
+313
+00:24:55,706 --> 00:24:58,583
+Zdraví - hlavně neriskujte.
+
+314
+00:25:01,320 --> 00:25:02,929
+Hlavně neriskuj.
+
+315
+00:25:03,449 --> 00:25:05,032
+To ti vzkazují hvězdy.
+
+316
+00:25:05,067 --> 00:25:08,155
+Nesnaž se to pochopit,
+prostě se tím řiď.
+
+317
+00:25:33,653 --> 00:25:36,310
+Voda se vaří. Bude za půl minutky.
+
+318
+00:25:41,025 --> 00:25:42,204
+Máte se?
+
+319
+00:25:42,862 --> 00:25:43,936
+Skvěle.
+
+320
+00:25:48,652 --> 00:25:51,115
+Poslyšte, můžeme spolu mluvit.
+
+321
+00:25:51,141 --> 00:25:54,035
+Jako kolegyně, co se sešly
+v kuchyňce u kafe.
+
+322
+00:25:54,063 --> 00:25:55,221
+Tak jo.
+
+323
+00:25:56,856 --> 00:25:59,126
+Můžeme mluvit o počasí...
+
+324
+00:25:59,727 --> 00:26:01,668
+o slevách,
+
+325
+00:26:01,696 --> 00:26:04,413
+o nové kolínské,
+co má ten chlápek z ostrahy...
+
+326
+00:26:05,132 --> 00:26:08,716
+Nebudu o vás hned sepisovat zprávu,
+když pár minut poklábosíme.
+
+327
+00:26:08,749 --> 00:26:09,902
+Tak jo.
+
+328
+00:26:16,742 --> 00:26:19,425
+Není špatný - lesní ovoce s vanilkou.
+
+329
+00:26:19,452 --> 00:26:21,097
+Možná trochu moc sladký.
+
+330
+00:26:22,387 --> 00:26:25,406
+Ráno jsem měla menší problém,
+ale nic vážného.
+
+331
+00:26:26,513 --> 00:26:27,886
+Tím lépe.
+
+332
+00:26:27,912 --> 00:26:30,402
+- Vy jste v pohodě?
+- Ale jo.
+
+333
+00:26:30,943 --> 00:26:33,274
+Asi jako malomocná
+na večírku pro zvané.
+
+334
+00:26:33,292 --> 00:26:35,333
+Vejdu, každý se mě straní...
+
+335
+00:26:35,922 --> 00:26:37,101
+Až tak?
+
+336
+00:26:37,893 --> 00:26:41,246
+Takhle blízko jsem
+vedle kolegy nestála už několik dní.
+
+337
+00:26:41,836 --> 00:26:44,237
+Duflot teď neví, kde mu hlava stojí.
+
+338
+00:26:48,052 --> 00:26:52,002
+Víte... ten můj ranní problém
+mi trochu leží v hlavě.
+
+339
+00:26:53,330 --> 00:26:57,712
+Marina. Musí se o sebe umět postarat,
+ale asi jsem na ni byla moc tvrdá.
+
+340
+00:26:58,277 --> 00:27:01,884
+Jako když učíte dítě plavat - musíte ho
+pustit na hloubku ve správný okamžik.
+
+341
+00:27:02,289 --> 00:27:03,414
+No právě.
+
+342
+00:27:03,722 --> 00:27:07,681
+Jenomže já mám pocit, že jsem ji
+shodila z útesu s koulí na noze.
+
+343
+00:27:08,958 --> 00:27:10,884
+Ne že by nebyla silná.
+
+344
+00:27:10,919 --> 00:27:12,837
+Je silnější, než vypadá.
+
+345
+00:27:12,864 --> 00:27:14,263
+Jako z křemene.
+
+346
+00:27:15,749 --> 00:27:17,245
+Mám ji...
+
+347
+00:27:17,883 --> 00:27:19,317
+mám ji vyhodnotit?
+
+348
+00:27:19,880 --> 00:27:21,446
+Jsou na to metody.
+
+349
+00:27:22,524 --> 00:27:24,882
+Kdyby to pomohlo vám, nebo jí...
+
+350
+00:27:26,773 --> 00:27:28,137
+Jo, proč ne.
+
+351
+00:27:29,116 --> 00:27:30,662
+Od toho tady jsem.
+
+352
+00:27:37,490 --> 00:27:41,080
+Ta data musí být kompletní.
+Jakmile budeme mít hrubý nástin...
+
+353
+00:27:41,106 --> 00:27:42,346
+Dobře.
+
+354
+00:27:43,130 --> 00:27:44,702
+Promiňte. Omlouvám se.
+
+355
+00:27:46,497 --> 00:27:48,626
+Omlouvám se, to je moje žena.
+
+356
+00:27:51,124 --> 00:27:52,813
+Co se děje?
+
+357
+00:27:52,840 --> 00:27:54,273
+<i>Jak se vede?</i>
+
+358
+00:27:54,960 --> 00:27:57,872
+- Kdo je to?
+<i>- Píchnul jsem ti s kolem.</i>
+
+359
+00:28:01,182 --> 00:28:02,549
+Je tam Isabelle?
+
+360
+00:28:03,384 --> 00:28:04,494
+<i>Kde?</i>
+
+361
+00:28:05,585 --> 00:28:06,825
+Dovolíte?
+
+362
+00:28:06,851 --> 00:28:08,382
+- Ale jistě.
+- Děkuji.
+
+363
+00:28:10,825 --> 00:28:12,319
+- Kde je Isabelle?
+<i>- Poblíž.</i>
+
+364
+00:28:12,742 --> 00:28:14,167
+Co jste jí provedl?
+
+365
+00:28:14,195 --> 00:28:15,970
+<i>Půjčil jsem si od ní mobil.</i>
+
+366
+00:28:15,997 --> 00:28:17,316
+<i>Je fajn.</i>
+
+367
+00:28:17,352 --> 00:28:20,448
+<i>Nakecal jsem jí,
+že musím okamžitě zavolat manželce</i>
+
+368
+00:28:20,471 --> 00:28:22,046
+<i>a že mám vybitý mobil.</i>
+
+369
+00:28:22,072 --> 00:28:23,937
+<i>Půjčila mi svůj.</i>
+
+370
+00:28:23,963 --> 00:28:26,606
+<i>Je to legrační, ne?
+Myslí si, že volám manželce.</i>
+
+371
+00:28:27,944 --> 00:28:29,167
+Dejte mi ji.
+
+372
+00:28:29,651 --> 00:28:31,446
+<i>Už sis tu cestu rozmyslel?</i>
+
+373
+00:28:32,780 --> 00:28:35,193
+Dejte mi sakra pokoj!
+Co jsem vám udělal?
+
+374
+00:28:35,216 --> 00:28:37,436
+<i>Nic. Mně nic.</i>
+
+375
+00:28:39,620 --> 00:28:41,817
+<i>Ale jestli odjedeš
+do Íránu, je po tobě.</i>
+
+376
+00:28:51,515 --> 00:28:53,895
+<i>Aby bylo jasno - není to výhrůžka.</i>
+
+377
+00:28:54,489 --> 00:28:56,001
+<i>Je to předpověď.</i>
+
+378
+00:28:56,361 --> 00:29:00,044
+<i>Já nevyhrožuju, ale informuju.
+Jsem věštec - předpovídám budoucnost.</i>
+
+379
+00:29:00,932 --> 00:29:02,384
+<i>A nikdy se nemýlím.</i>
+
+380
+00:29:03,010 --> 00:29:04,293
+Kdo jste?
+
+381
+00:29:04,671 --> 00:29:06,950
+<i>Vždyť ti to říkám - věštec.</i>
+
+382
+00:29:08,651 --> 00:29:10,973
+<i>- Mám ti dát Isabelle?</i>
+- Jo. Dejte mi ji.
+
+383
+00:29:12,453 --> 00:29:13,516
+Haló?
+
+384
+00:29:13,903 --> 00:29:15,002
+Haló?
+
+385
+00:29:23,235 --> 00:29:24,330
+No tak...
+
+386
+00:29:25,830 --> 00:29:27,703
+<i>- Haló?</i>
+- Iso? Jsi v pohodě?
+
+387
+00:29:27,730 --> 00:29:29,076
+<i>Jo. A ty?</i>
+
+388
+00:29:29,102 --> 00:29:30,959
+- Kde jsi?
+<i>- Nakupuju.</i>
+
+389
+00:29:57,992 --> 00:29:59,004
+Haló?
+
+390
+00:29:59,048 --> 00:30:02,356
+<i>Dobrý den, tady doktorka Balmesová.
+Neruším?</i>
+
+391
+00:30:02,382 --> 00:30:03,605
+Ne, ne.
+
+392
+00:30:03,632 --> 00:30:06,851
+<i>Marie-Jeanne mě požádala
+o hodnocení Mariny Loiseauové.</i>
+
+393
+00:30:06,889 --> 00:30:10,643
+<i>V první řadě se chystám
+zajít do jejího bytu.</i>
+
+394
+00:30:10,672 --> 00:30:13,713
+<i>Mohl byste jít se mnou?
+Prý máte klíče.</i>
+
+395
+00:30:13,756 --> 00:30:17,917
+Tak dobře, sejdeme se ve stanici
+Saint Ambroise ve směru na Montreuil.
+
+396
+00:30:17,934 --> 00:30:19,140
+V 11 hodin.
+
+397
+00:30:19,166 --> 00:30:20,794
+<i>Dohodnuto. Díky.</i>
+
+398
+00:30:20,820 --> 00:30:22,059
+Tak zatím.
+
+399
+00:30:24,724 --> 00:30:27,384
+<i>Jsme na strategické křižovatce.</i>
+
+400
+00:30:27,504 --> 00:30:29,795
+<i>Všechno, co nám
+zatím řekl, může být pravda.</i>
+
+401
+00:30:29,915 --> 00:30:32,330
+<i>Ale tohle je úplně jiné kafe.</i>
+
+402
+00:30:33,438 --> 00:30:35,207
+Mějte se na pozoru.
+
+403
+00:30:36,500 --> 00:30:38,929
+Polygraf není všemocný.
+
+404
+00:30:40,287 --> 00:30:41,650
+Ten chlap je dobrý.
+
+405
+00:30:42,715 --> 00:30:46,600
+Je schopný nás přimět,
+abysme mu sežrali skoro cokoli.
+
+406
+00:30:47,673 --> 00:30:49,289
+Má na to výcvik.
+
+407
+00:30:49,590 --> 00:30:51,849
+Dejte mu na srozuměnou,
+
+408
+00:30:52,010 --> 00:30:54,370
+ať se dobře rozmyslí,
+
+409
+00:30:54,813 --> 00:30:56,678
+než začne mluvit.
+
+410
+00:30:57,189 --> 00:30:59,810
+Tohle je pro něj zlomový okamžik.
+
+411
+00:31:00,503 --> 00:31:03,020
+- Rozuměl jste všemu?
+- Ano.
+
+412
+00:31:04,359 --> 00:31:05,498
+Dobře.
+
+413
+00:31:06,048 --> 00:31:07,192
+Můžete.
+
+414
+00:31:12,198 --> 00:31:13,605
+Nějaký problém?
+
+415
+00:31:15,945 --> 00:31:17,326
+Chcete přestávku?
+
+416
+00:31:22,517 --> 00:31:24,266
+Tehdy se to celé zvrtlo.
+
+417
+00:33:08,946 --> 00:33:11,594
+Škoda. Mohla jsem nastoupit,
+kdybych to věděla.
+
+418
+00:33:11,621 --> 00:33:14,216
+- Počkáme na další?
+- Ne, vylezeme.
+
+419
+00:33:14,247 --> 00:33:15,597
+Je to tady?
+
+420
+00:33:16,371 --> 00:33:17,637
+Pojďte se mnou.
+
+421
+00:33:20,805 --> 00:33:23,198
+Mohli jsme se sejít před jejím bytem.
+
+422
+00:33:23,215 --> 00:33:25,951
+- Postupy.
+- Máte pravdu, jsem pitomá.
+
+423
+00:33:49,644 --> 00:33:51,078
+- Příjemný den.
+- I vám.
+
+424
+00:33:51,104 --> 00:33:52,652
+- Na shledanou.
+- Nashle.
+
+425
+00:33:54,975 --> 00:33:56,295
+- Dobrý den.
+- Dobrý.
+
+426
+00:33:56,330 --> 00:33:59,768
+Jsem Prune Debaillyová.
+Prý máte moji studentskou kartu.
+
+427
+00:33:59,792 --> 00:34:02,725
+Tak to jste vy. Měla jste kliku.
+
+428
+00:34:02,748 --> 00:34:04,824
+Lidi se většinou neobtěžujou.
+
+429
+00:34:04,851 --> 00:34:06,487
+- Tady je.
+- Děkuju.
+
+430
+00:34:09,834 --> 00:34:11,250
+- Kávu.
+- Jistě.
+
+431
+00:34:16,327 --> 00:34:18,689
+Tak vy studujete filozofii?
+
+432
+00:34:19,583 --> 00:34:21,379
+Jak to víte?
+
+433
+00:34:21,540 --> 00:34:22,579
+To se pozná.
+
+434
+00:34:22,739 --> 00:34:23,819
+Já taky.
+
+435
+00:34:23,980 --> 00:34:26,619
+Taky jsem studoval filozofii.
+
+436
+00:34:26,780 --> 00:34:27,819
+Tři roky.
+
+437
+00:34:27,980 --> 00:34:29,459
+Na Sorbonně.
+
+438
+00:34:30,300 --> 00:34:32,339
+Nejlepší roky mého života.
+
+439
+00:34:32,500 --> 00:34:35,139
+Kéž bych mohl pokračovat.
+
+440
+00:34:35,980 --> 00:34:40,019
+Jednoho dne
+mi neprodloužili stipendium...
+
+441
+00:34:41,020 --> 00:34:42,819
+nikdy jsem nezjistil proč.
+
+442
+00:34:43,340 --> 00:34:44,459
+To je smutné.
+
+443
+00:34:45,660 --> 00:34:48,699
+V tu chvíli jsem byl zoufalý,
+
+444
+00:34:48,860 --> 00:34:50,339
+zlomilo mi to srdce.
+
+445
+00:34:52,460 --> 00:34:53,738
+To chápu.
+
+446
+00:34:55,500 --> 00:34:57,339
+Ale nejhorší bylo,
+
+447
+00:34:57,500 --> 00:35:00,659
+že mí přátelé studovali dál.
+
+448
+00:35:01,100 --> 00:35:03,738
+Měl jsem jednoho -
+jak se jenom jmenoval -
+
+449
+00:35:05,060 --> 00:35:08,699
+myslím, že dneska je z něj
+docela známý profesor.
+
+450
+00:35:09,660 --> 00:35:10,738
+Jo! Paul Lefebvre.
+
+451
+00:35:11,500 --> 00:35:13,579
+Správně. Paul Lefebvre.
+
+452
+00:35:14,140 --> 00:35:16,899
+Říká vám to jméno něco?
+
+453
+00:35:17,780 --> 00:35:19,619
+Prý pořád učí.
+
+454
+00:35:20,219 --> 00:35:22,699
+Musela jste o něm slyšet.
+
+455
+00:35:24,260 --> 00:35:25,779
+No jistě.
+
+456
+00:35:25,940 --> 00:35:28,139
+Znáte ho osobně?
+
+457
+00:35:29,020 --> 00:35:31,218
+Ne. Chodila jsem na jeho přednášky.
+
+458
+00:35:33,460 --> 00:35:36,099
+Slyšel jsem, že napsal knihu.
+
+459
+00:35:36,260 --> 00:35:37,939
+Nevíte o tom něco?
+
+460
+00:35:37,980 --> 00:35:39,027
+Ne, nevím.
+
+461
+00:35:39,060 --> 00:35:41,539
+Už musím jít. Mám přednášku.
+
+462
+00:35:42,420 --> 00:35:43,659
+Ale jistě.
+
+463
+00:35:43,820 --> 00:35:46,579
+Já hlupák vás tady zdržuju.
+Utíkejte.
+
+464
+00:35:46,739 --> 00:35:48,539
+Utíkejte, slečno Debaillyová.
+
+465
+00:36:17,490 --> 00:36:20,596
+- Máte ráda čokoládu?
+- Jo. Jako každý.
+
+466
+00:36:20,613 --> 00:36:22,723
+Ale teď zrovna nemám hlad.
+
+467
+00:36:26,136 --> 00:36:27,209
+Haló?
+
+468
+00:36:28,529 --> 00:36:29,884
+Uklidni se. Co se děje?
+
+469
+00:36:29,928 --> 00:36:32,002
+Nevím. Vyptával se mě.
+
+470
+00:36:32,573 --> 00:36:35,054
+Ptal se, jestli znám Paula Lefebvra.
+
+471
+00:36:35,090 --> 00:36:36,365
+Asi mě sleduje.
+
+472
+00:36:37,755 --> 00:36:40,113
+Nevím. Vysoký, tmavovlasý...
+
+473
+00:36:42,147 --> 00:36:44,892
+Je tam nějaký obchod,
+u kterého se dá zastavit?
+
+474
+00:36:44,922 --> 00:36:46,036
+Jdi tam.
+
+475
+00:36:46,457 --> 00:36:47,874
+Jak se jmenuje?
+
+476
+00:36:48,425 --> 00:36:49,678
+Adresa?
+
+477
+00:36:51,335 --> 00:36:53,561
+Tak jo, poslouchej mě.
+Kolik máš peněz?
+
+478
+00:36:53,587 --> 00:36:55,303
+Dobře. Pošlu ti taxi.
+
+479
+00:36:55,329 --> 00:36:57,977
+Jeď k mámě a počkej tam,
+dokud ti nezavolám.
+
+480
+00:36:58,001 --> 00:36:59,218
+Zatím ahoj.
+
+481
+00:37:08,245 --> 00:37:09,732
+Kdo to byl?
+
+482
+00:37:10,286 --> 00:37:11,887
+Dcera má trable.
+
+483
+00:37:15,185 --> 00:37:17,337
+- Jsme na místě?
+- Ještě ne.
+
+484
+00:37:21,425 --> 00:37:23,971
+Haló? Dobrý den, potřebuji taxi.
+
+485
+00:37:41,280 --> 00:37:45,248
+Až přijdeme na ulici, dáte se doprava
+až na hlavní a chytíte si taxi.
+
+486
+00:37:45,283 --> 00:37:48,573
+Jasné? Vymyslete si nějakou adresu
+a druhým se pak vraťte do práce.
+
+487
+00:37:48,599 --> 00:37:51,124
+- Nejdeme ke slečně Loiseauové?
+- Teď ne.
+
+488
+00:37:51,151 --> 00:37:53,637
+- Proč?
+- Otázka bezpečnosti.
+
+489
+00:37:53,680 --> 00:37:56,636
+- Co se děje?
+- Neptejte se a udělejte, co vám říkám.
+
+490
+00:38:35,695 --> 00:38:37,085
+Dobrý den, slečno.
+
+491
+00:38:37,560 --> 00:38:40,692
+- Ulice Gastona Lauriaua 82, Montreuil.
+- Jistě.
+
+492
+00:39:06,720 --> 00:39:08,864
+Zastavte, prosím.
+
+493
+00:39:24,331 --> 00:39:27,661
+- Vystoupíte si?
+- Ne, ne, dejte mi vteřinku.
+
+494
+00:39:41,047 --> 00:39:42,765
+- Ellensteine?
+<i>- Ano?</i>
+
+495
+00:39:42,798 --> 00:39:47,640
+Jde dát do magnetické karty GPS?
+Třeba do karty z hotelu?
+
+496
+00:39:47,667 --> 00:39:49,022
+<i>No jasně.</i>
+
+497
+00:39:49,066 --> 00:39:52,355
+<i>Profíci vám z ní
+udělají klidně kreditku.</i>
+
+498
+00:39:52,765 --> 00:39:53,927
+Děkuju.
+
+499
+00:39:55,792 --> 00:39:57,455
+Otočte to, prosím.
+
+500
+00:39:57,481 --> 00:39:59,850
+- Už nejedeme na Porte des Lilas?
+- Ne.
+
+501
+00:40:06,050 --> 00:40:07,642
+Kam jede?
+
+502
+00:40:13,074 --> 00:40:14,801
+To nechápu.
+
+503
+00:40:15,434 --> 00:40:17,634
+Dělej. Jeď za ním.
+
+504
+00:41:02,626 --> 00:41:04,543
+Kdo byl vlastně ten maník?
+
+505
+00:41:05,529 --> 00:41:06,892
+Nikdo.
+
+506
+00:41:08,907 --> 00:41:09,945
+Tak jo.
+
+507
+00:41:10,376 --> 00:41:12,092
+Má jet do Íránu?
+
+508
+00:41:12,118 --> 00:41:13,473
+Teď už ne.
+
+509
+00:41:15,453 --> 00:41:16,640
+Řekl ti o mně?
+
+510
+00:41:17,820 --> 00:41:21,180
+Říkal, že jeho táta má Parkinsona
+a že se o něj musí starat.
+
+511
+00:41:22,350 --> 00:41:23,978
+O tobě neříkal nic.
+
+512
+00:41:25,843 --> 00:41:27,471
+Takže pojedeš ty?
+
+513
+00:41:30,829 --> 00:41:32,035
+Kdy?
+
+514
+00:41:35,044 --> 00:41:36,434
+Seismologie.
+
+515
+00:41:37,622 --> 00:41:39,302
+Írán - to dává smysl.
+
+516
+00:41:42,390 --> 00:41:43,763
+Na dlouho?
+
+517
+00:41:45,453 --> 00:41:46,869
+Kolik?
+
+518
+00:41:47,626 --> 00:41:49,377
+Tři měsíce? Šest?
+
+519
+00:41:49,403 --> 00:41:51,303
+Dobře víš, že ti to neřeknu.
+
+520
+00:41:52,896 --> 00:41:55,113
+- Mám jenom jednu otázku.
+- Ne.
+
+521
+00:41:56,382 --> 00:41:58,291
+Stačí odpovědět ano nebo ne.
+
+522
+00:41:59,197 --> 00:42:00,534
+Tak teda jednu.
+
+523
+00:42:00,903 --> 00:42:03,314
+- Ale nevím, jestli ti odpovím.
+- Fajn.
+
+524
+00:42:03,349 --> 00:42:04,634
+My dva...
+
+525
+00:42:06,050 --> 00:42:09,357
+je to jenom sex nebo něco víc?
+
+526
+00:42:09,398 --> 00:42:10,805
+Ne.
+
+527
+00:42:11,535 --> 00:42:12,556
+Co ne?
+
+528
+00:42:12,600 --> 00:42:13,770
+Vlastně ano.
+
+529
+00:42:29,374 --> 00:42:32,673
+Vážně nechápu, co ho to popadlo.
+
+530
+00:42:33,464 --> 00:42:36,970
+Během půl hodiny mi poskytl dost důkazů,
+abych mohla s jistotou prohlásit,
+
+531
+00:42:37,010 --> 00:42:39,771
+že má všechny příznaky syndromu,
+o kterém jsem vám říkala -
+
+532
+00:42:39,797 --> 00:42:41,249
+vážné hypervigilace.
+
+533
+00:42:41,847 --> 00:42:43,477
+Co hrozí?
+
+534
+00:42:43,501 --> 00:42:45,498
+Obvykle ztráta koncentrace
+
+535
+00:42:45,533 --> 00:42:48,613
+související s neustálým předjímáním
+imaginárního nebezpečí.
+
+536
+00:42:48,639 --> 00:42:51,364
+Prostě je duchem nepřítomný.
+
+537
+00:42:51,390 --> 00:42:55,041
+Zabývá se podružnostmi,
+což mu brání vidět důležité věci.
+
+538
+00:42:55,068 --> 00:42:57,126
+- Může nás dostat do maléru.
+- Ano.
+
+539
+00:42:57,777 --> 00:43:00,001
+A co hůř, může se obrátit
+sám proti sobě.
+
+540
+00:43:00,025 --> 00:43:01,837
+A začít se obviňovat.
+
+541
+00:43:01,864 --> 00:43:04,195
+Může se stát
+objektem vlastní paranoie.
+
+542
+00:43:04,582 --> 00:43:07,601
+A to může vést
+až k sebevražedným sklonům.
+
+543
+00:43:07,635 --> 00:43:09,749
+- Nepřehánějte.
+- Já nepřeháním.
+
+544
+00:43:12,854 --> 00:43:15,520
+Jako by toho nebylo málo.
+
+545
+00:43:16,505 --> 00:43:17,843
+Dáte mi to písemně?
+
+546
+00:43:18,601 --> 00:43:19,894
+Přinesu vám to zítra.
+
+547
+00:43:33,049 --> 00:43:35,082
+Úplně jsem zapomněl.
+
+548
+00:43:35,108 --> 00:43:38,064
+Ten chlápek, co mi ukradl sako,
+ji asi zahodil. Ještě že se našla.
+
+549
+00:43:38,094 --> 00:43:39,775
+Stejně byl divný.
+
+550
+00:43:40,470 --> 00:43:42,335
+Proč? Protože byl Arab?
+
+551
+00:43:42,370 --> 00:43:44,147
+Guillaume! Co blbneš?
+
+552
+00:43:44,622 --> 00:43:46,936
+Tak proč byl divný?
+
+553
+00:43:46,962 --> 00:43:50,160
+Sice ti pomohl,
+ale byl dost neodbytný, ne?
+
+554
+00:43:50,767 --> 00:43:52,069
+Dovoloval si?
+
+555
+00:43:52,095 --> 00:43:54,488
+Ne, jenom se mě vyptával.
+
+556
+00:43:54,515 --> 00:43:56,433
+Prostě se o tebe zajímal.
+
+557
+00:43:56,456 --> 00:43:59,438
+V těchhle zemích
+lidi nejsou tak uzavření.
+
+558
+00:43:59,465 --> 00:44:02,641
+Kladou otázky, zajímají se,
+jsou zvědaví. Nemyslí to zle.
+
+559
+00:44:02,676 --> 00:44:04,777
+Guillaume, přestaň.
+Normálně ji vyslýchal.
+
+560
+00:44:04,804 --> 00:44:07,373
+Proč to nepřiznáš?
+Navíc tě to taky vylekalo.
+
+561
+00:44:10,223 --> 00:44:11,375
+Nemáš led?
+
+562
+00:44:12,484 --> 00:44:13,566
+Jo.
+
+563
+00:44:19,672 --> 00:44:21,933
+- Co všechno Louis ví?
+- Cože?
+
+564
+00:44:22,320 --> 00:44:24,572
+- Jaké cože? Ví, co dělám?
+- Ne.
+
+565
+00:44:24,596 --> 00:44:27,166
+Co měly znamenat ty kecy o tom,
+že Prune vyslýchal?
+
+566
+00:44:27,191 --> 00:44:30,340
+Je to pravda. Co se děje?
+Viděl ses, jak vypadáš?
+
+567
+00:44:30,376 --> 00:44:33,041
+On ji nevyslýchal.
+Prostě se jí vyptával.
+
+568
+00:44:33,068 --> 00:44:36,882
+Na Paula Lefebvra. Máš mě za blbce?
+Myslíš, že nevím, co to znamená?
+
+569
+00:44:36,917 --> 00:44:38,421
+- A co teda?
+- Co asi?
+
+570
+00:44:38,448 --> 00:44:41,298
+Nehustil jsi snad do nás,
+že to jméno nesmíme vyslovit?
+
+571
+00:44:41,325 --> 00:44:43,578
+- Louis to jméno slyšel?
+- Ne.
+
+572
+00:44:45,403 --> 00:44:47,321
+- Co se děje?
+- Nic.
+
+573
+00:44:47,760 --> 00:44:49,511
+Louis začíná být otrávený.
+
+574
+00:44:49,538 --> 00:44:51,680
+Ať mě neštve!
+
+575
+00:45:00,033 --> 00:45:01,537
+Prune, počkej.
+
+576
+00:45:02,470 --> 00:45:04,986
+- Ty máš strach?
+- Trochu jo.
+
+577
+00:45:05,021 --> 00:45:07,000
+Fakt jsem měla pocit,
+že mě sleduje.
+
+578
+00:45:07,027 --> 00:45:09,640
+- Ale nesledoval tě.
+- Asi ne.
+
+579
+00:45:10,178 --> 00:45:12,949
+- Odkud znal tvoje jméno?
+- Co jsi řekla Louisovi?
+
+580
+00:45:12,976 --> 00:45:15,748
+Nic, jenom že byl trochu neodbytný
+
+581
+00:45:15,782 --> 00:45:17,797
+- a žes mi zavolal taxi.
+- Tak jo.
+
+582
+00:45:19,055 --> 00:45:21,553
+- Měl jsi bobky?
+- Ne, ale ty ses mi zdála...
+
+583
+00:45:21,580 --> 00:45:24,456
+- Přestaň, bál ses.
+- Zavoláš mi, že tě někdo sleduje.
+
+584
+00:45:24,483 --> 00:45:26,436
+Divný týpek. Tak co se divíš?
+
+585
+00:45:27,773 --> 00:45:29,638
+Odkud znal tvoje jméno?
+
+586
+00:45:30,263 --> 00:45:32,982
+Určitě řekl Paul Lefebvre?
+
+587
+00:45:33,448 --> 00:45:34,768
+Jo.
+
+588
+00:45:34,794 --> 00:45:39,021
+Nemohl říct Jean-Paul, nebo nějaké
+jiné jméno, nebo jenom Fevre?
+
+589
+00:45:39,681 --> 00:45:42,136
+- Určitě ho několikrát zopakoval?
+- Já nevím.
+
+590
+00:45:42,857 --> 00:45:44,916
+Každopádně je to jenom náhoda.
+
+591
+00:45:44,942 --> 00:45:46,476
+- Náhoda?
+- Jo.
+
+592
+00:45:47,725 --> 00:45:49,529
+Našel tvoji kartu.
+
+593
+00:45:49,564 --> 00:45:51,464
+Mluvil o jiném Paulu Lefebvrovi.
+
+594
+00:45:51,482 --> 00:45:52,986
+Jsou jich mraky.
+
+595
+00:45:53,013 --> 00:45:55,634
+Vyslovil jméno,
+které pro tebe něco znamená.
+
+596
+00:45:56,105 --> 00:45:57,522
+Trochu divné.
+
+597
+00:45:57,557 --> 00:46:00,082
+Myslíš, že bych byl v klidu,
+kdyby to nebyla jenom náhoda?
+
+598
+00:46:00,509 --> 00:46:01,644
+Ne.
+
+599
+00:46:22,752 --> 00:46:24,133
+<i>Sebeovládání.</i>
+
+600
+00:46:24,160 --> 00:46:25,717
+<i>Neztrácet sebeovládání.</i>
+
+601
+00:46:25,752 --> 00:46:29,244
+<i>Člověk by musel být slepý, aby neviděl,
+že už neovládám vůbec nic.</i>
+
+602
+00:46:29,481 --> 00:46:31,795
+Ten večer mi bylo jasné,
+co musím udělat.
+
+603
+00:46:33,638 --> 00:46:36,075
+Snažil jsem se tomu vyhnout,
+ale po tomhle...
+
+604
+00:46:36,743 --> 00:46:38,380
+neměl jsem na vybranou.
+
+605
+00:46:47,154 --> 00:46:50,084
+Bouteflika podkopává
+alžírské tajné služby už léta.
+
+606
+00:46:51,060 --> 00:46:52,829
+Chce víc pravomocí.
+
+607
+00:46:53,524 --> 00:46:56,853
+Je jasné, že spoustě lidí se to nelíbí.
+Vznikají rozepře.
+
+608
+00:46:58,850 --> 00:47:02,413
+Plukovník Boudiame
+se snažil Bouteflikovi vzepřít.
+
+609
+00:47:02,440 --> 00:47:04,252
+Tak ho uklidili.
+
+610
+00:47:04,771 --> 00:47:08,255
+Skončil v zapadákově kdesi na poušti,
+kam se nikomu nechce.
+
+611
+00:47:08,285 --> 00:47:10,634
+A tenhle - generál Messaoui.
+
+612
+00:47:10,660 --> 00:47:12,921
+Je to oportunista, ale nezradil by.
+
+613
+00:47:13,642 --> 00:47:15,129
+Má hodně co ztratit.
+
+614
+00:47:15,763 --> 00:47:17,566
+Tihle všichni mají hodně co ztratit.
+
+615
+00:47:19,282 --> 00:47:21,358
+Kdežto ten váš chlápek
+
+616
+00:47:21,384 --> 00:47:23,170
+podle mě už nemá co ztratit.
+
+617
+00:47:23,197 --> 00:47:25,352
+Máte na mysli někoho konkrétního?
+
+618
+00:47:26,153 --> 00:47:27,437
+Kerbouche.
+
+619
+00:47:27,472 --> 00:47:29,214
+Generál ve výslužbě.
+
+620
+00:47:29,250 --> 00:47:31,652
+Ale prý pořád tahá za nitky.
+
+621
+00:47:31,678 --> 00:47:35,233
+Horlivý zastánce dřívějších tajných služeb.
+Než v nich Bouteflika nadělal bordel.
+
+622
+00:47:36,561 --> 00:47:38,206
+Vypracoval se odspodu.
+
+623
+00:47:38,241 --> 00:47:40,918
+Na každého něco ví.
+Přezdívá se mu Chobotnice.
+
+624
+00:47:41,278 --> 00:47:42,985
+Skutečný profík.
+
+625
+00:47:43,011 --> 00:47:45,598
+Pro tajné služby se narodil
+a pro tajné služby zemře.
+
+626
+00:47:45,624 --> 00:47:48,496
+Jo. Patří ke staré škole,
+kterou vycvičila KGB.
+
+627
+00:47:48,522 --> 00:47:49,719
+Mohl by to být on.
+
+628
+00:47:49,758 --> 00:47:52,001
+Je to váš člověk.
+Nikdo jiný to být nemůže.
+
+629
+00:47:52,036 --> 00:47:53,998
+- Jste si jistý?
+- Jsem.
+
+630
+00:47:55,407 --> 00:47:59,163
+Dražba končí za čtvrt hodiny.
+Do té doby chci komplet info o Kerbouchovi.
+
+631
+00:48:23,432 --> 00:48:25,816
+<i>Kancelář generála Kerbouche.</i>
+
+632
+00:48:25,843 --> 00:48:28,851
+Dobrý den, chtěl bych mluvit
+s generálem Kerbouchem.
+
+633
+00:48:28,886 --> 00:48:32,449
+<i>- Kdo volá?</i>
+- Volám z Paříže. Jsem jeho onkolog.
+
+634
+00:48:33,056 --> 00:48:34,279
+Profesor Gaudin.
+
+635
+00:48:34,314 --> 00:48:36,091
+<i>Malý moment, prosím.</i>
+
+636
+00:48:37,822 --> 00:48:39,969
+<i>- Profesore Gaudine?</i>
+- Ano?
+
+637
+00:48:39,996 --> 00:48:42,635
+<i>- Přepojím vás na generála.</i>
+- Děkuji.
+
+638
+00:48:44,139 --> 00:48:45,724
+<i>Haló, doktore?</i>
+
+639
+00:48:45,758 --> 00:48:49,535
+Dobrý den, pane Kerbouchi.
+Volám ohledně toho skútru.
+
+640
+00:49:07,359 --> 00:49:08,600
+Je to on.
+
+641
+00:49:10,227 --> 00:49:13,491
+Tak jo. Jdu oznámit PZM,
+že máme Pigalla.
+
+642
+00:49:13,518 --> 00:49:14,643
+Henri...
+
+643
+00:49:16,025 --> 00:49:18,198
+musím s tebou mluvit,
+než za ním půjdeš.
+
+644
+00:49:18,225 --> 00:49:19,799
+- Nějaký problém?
+- Jo.
+
+645
+00:49:20,291 --> 00:49:22,016
+Přijď do mé kanceláře.
+
+646
+00:49:24,906 --> 00:49:26,299
+<i>Nadešel čas.</i>
+
+647
+00:49:26,325 --> 00:49:28,267
+<i>Nadešel čas přijmout porážku,
+jak se říká.</i>
+
+648
+00:49:28,744 --> 00:49:31,208
+<i>Stáhnout se.
+Bez ohledu na napáchané škody.</i>
+
+649
+00:49:31,234 --> 00:49:33,469
+<i>Než napácháte další.</i>
+
+650
+00:49:33,900 --> 00:49:35,073
+Marie-Jeanne?
+
+651
+00:49:35,900 --> 00:49:37,528
+Máš jít za Henrim Duflotem.
+
+652
+00:49:37,563 --> 00:49:39,982
+- Co se děje?
+- Potřebují tě tam.
+
+653
+00:49:41,056 --> 00:49:43,563
+<i>Moje dcera tvořila součást
+napáchaných škod,</i>
+
+654
+00:49:43,598 --> 00:49:45,758
+<i>na scénu vstoupili Rusové,</i>
+
+655
+00:49:45,785 --> 00:49:47,992
+<i>přestával jsem na to stačit.</i>
+
+656
+00:49:48,019 --> 00:49:50,042
+<i>Neměl jsem dost prostředků.</i>
+
+657
+00:49:51,207 --> 00:49:53,424
+Denně se scházejí
+v Rue de la Faisanderie,
+
+658
+00:49:53,450 --> 00:49:55,667
+v Manjakinově rezidenci.
+
+659
+00:49:55,693 --> 00:49:57,763
+To je Putinův poradce.
+
+660
+00:49:57,787 --> 00:49:59,773
+Neznám jejich přesnou agendu,
+
+661
+00:49:59,799 --> 00:50:02,095
+ale v hrubých rysech
+jde o tajné vyjednávání
+
+662
+00:50:02,122 --> 00:50:04,409
+mezi vládou a opozicí v exilu.
+
+663
+00:50:05,361 --> 00:50:09,756
+Nadia el Mansúrová se ho účastní
+z titulu experta na tamní geopolitiku.
+
+664
+00:50:09,786 --> 00:50:13,078
+V Paříži údajně navštěvuje
+odborné přednášky, ale...
+
+665
+00:50:13,913 --> 00:50:16,074
+každý den se účastní jednání.
+
+666
+00:50:17,832 --> 00:50:19,821
+<i>Nadešel čas pokusit se o nemožné</i>
+
+667
+00:50:19,847 --> 00:50:21,387
+<i>a zabránit nejhoršímu.</i>
+
+668
+00:50:21,387 --> 00:50:25,000
+www.titulky.com
