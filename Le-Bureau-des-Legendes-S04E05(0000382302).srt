@@ -1,0 +1,2401 @@
+﻿1
+00:00:09,391 --> 00:00:14,497
+OSOBY A DĚJ JSOU SMYŠLENÉ,
+PODOBNOST SE SKUTEČNOSTÍ JE ČISTĚ NÁHODNÁ
+
+2
+00:00:15,174 --> 00:00:18,922
+ODDĚLENÍ KRYCÍCH LEGEND
+Překlad: datel071
+
+3
+00:00:27,285 --> 00:00:28,948
+Takže to shrnu.
+
+4
+00:00:28,974 --> 00:00:33,821
+Prášilův mobil a připojená zařízení
+hacknul někdo od Power Dia,
+
+5
+00:00:33,848 --> 00:00:36,156
+aby pronikl do sítě
+Bulgakovova institutu.
+
+6
+00:00:36,660 --> 00:00:40,308
+Ale jeho pokus odhalili
+tamní bezpečáci.
+
+7
+00:00:40,344 --> 00:00:43,229
+Škodlivý program,
+který hacker nainstaloval,
+
+8
+00:00:43,264 --> 00:00:47,735
+bezpečáci odstranili,
+až na tahle sluchátka.
+
+9
+00:00:48,491 --> 00:00:50,603
+Prostudovali jsme kód toho programu
+
+10
+00:00:50,629 --> 00:00:53,154
+a zjistili jsme,
+že obsahuje část dalšího kódu,
+
+11
+00:00:53,180 --> 00:00:55,749
+který má jiný účel
+než proniknout do sítě Institutu.
+
+12
+00:00:56,409 --> 00:00:58,010
+Pokusíme se zjistit jaký.
+
+13
+00:00:58,644 --> 00:01:02,409
+Program, který nainstalovali,
+čeká na aktivaci, aby stáhl jiný program.
+
+14
+00:01:02,444 --> 00:01:04,441
+- Větší a nebezpečnější.
+- Rozumím.
+
+15
+00:01:04,468 --> 00:01:08,114
+Takže ho aktivujeme a uvidíme,
+kam a pro co si sáhne.
+
+16
+00:01:08,475 --> 00:01:09,717
+Dobře.
+
+17
+00:01:10,740 --> 00:01:11,810
+Takže?
+
+18
+00:01:12,348 --> 00:01:15,155
+Předpokládám, že je nějaký problém,
+když jste si mě zavolali.
+
+19
+00:01:15,190 --> 00:01:16,738
+Jestli nás odhalí,
+
+20
+00:01:16,765 --> 00:01:19,510
+dostanou se až k Prášilovi.
+
+21
+00:01:20,152 --> 00:01:24,100
+A bylo by divné, že by dokázala to,
+na co se chystají Césarovi lidi.
+
+22
+00:01:24,126 --> 00:01:28,164
+Takže je tu potenciální riziko, že zjistí,
+že pracuje pro někoho, jako jsme my.
+
+23
+00:01:30,144 --> 00:01:31,885
+Vynasnažíme se tomu zabránit.
+
+24
+00:01:35,096 --> 00:01:36,196
+Tohle je DGSE.
+
+25
+00:01:38,914 --> 00:01:42,434
+Tohle je server,
+na kterém je ten program.
+
+26
+00:01:42,469 --> 00:01:44,689
+Umístili jsme ho do Ruska,
+ale nevíme, kde je.
+
+27
+00:01:46,097 --> 00:01:48,035
+Máme deset serverů...
+
+28
+00:01:50,460 --> 00:01:53,038
+které mají jediný účel -
+svést je z cesty,
+
+29
+00:01:53,074 --> 00:01:56,354
+aby se nedostali až k nám.
+
+30
+00:01:56,377 --> 00:02:00,075
+Navíc jakmile přes ty servery projdeme,
+vymažu z nich veškeré naše stopy.
+
+31
+00:02:00,449 --> 00:02:02,305
+Až lidi od Dia zjistí,
+
+32
+00:02:02,349 --> 00:02:05,305
+že ten program stahujeme,
+
+33
+00:02:05,341 --> 00:02:07,549
+ze všeho nejdřív vypnou připojení
+
+34
+00:02:07,575 --> 00:02:10,557
+a pak začnou pátrat,
+odkud to přichází.
+
+35
+00:02:10,589 --> 00:02:13,651
+Když se jim to podaří,
+dostanou se k tomuhle serveru.
+
+36
+00:02:13,686 --> 00:02:16,836
+A jestli budou nervózní,
+prozkoumají ho
+
+37
+00:02:16,862 --> 00:02:19,273
+a možná se dostanou
+až k tomu předchozímu.
+
+38
+00:02:19,300 --> 00:02:21,754
+A tak dále, a tak dále.
+
+39
+00:02:22,265 --> 00:02:24,878
+A my - než ho prozkoumají -
+
+40
+00:02:24,904 --> 00:02:27,271
+přepíšeme kód,
+abychom po sobě zahladili stopy.
+
+41
+00:02:29,158 --> 00:02:30,425
+Bude to fungovat?
+
+42
+00:02:30,980 --> 00:02:32,070
+Mohlo by.
+
+43
+00:02:44,330 --> 00:02:45,395
+Jdeme na to.
+
+44
+00:02:46,882 --> 00:02:48,034
+Proč zčervenal?
+
+45
+00:02:48,592 --> 00:02:52,050
+To je normální. Jejich server zaznamenal,
+že jsme se připojili, a odpojil nás.
+
+46
+00:02:52,076 --> 00:02:53,651
+Uvidíme, kam až se dostanou.
+
+47
+00:02:54,390 --> 00:02:56,633
+Musíme programovat rychleji než oni.
+
+48
+00:03:04,394 --> 00:03:07,402
+Zdá se, že nestihli
+vystopovat předchozí server,
+
+49
+00:03:07,429 --> 00:03:08,986
+jinak by taky zčervenal.
+
+50
+00:03:09,009 --> 00:03:10,262
+Vypadá to dobře.
+
+51
+00:03:10,306 --> 00:03:12,519
+- To je všechno?
+- Ne.
+
+52
+00:03:12,558 --> 00:03:14,353
+- Kolik?
+- Necelé tři vteřiny.
+
+53
+00:03:14,388 --> 00:03:15,954
+300 kB z mega a něco.
+
+54
+00:03:16,834 --> 00:03:18,171
+Změníme trasu.
+
+55
+00:03:25,651 --> 00:03:26,883
+Co se děje?
+
+56
+00:03:26,909 --> 00:03:29,162
+Server nás odhalil
+za necelé tři vteřiny.
+
+57
+00:03:29,188 --> 00:03:31,896
+Podařilo se nám stáhnout
+300 kB programu
+
+58
+00:03:31,928 --> 00:03:34,318
+a teď víme, že má něco přes 1 MB.
+
+59
+00:03:34,357 --> 00:03:38,069
+Stejný postup musíme zopakovat
+zhruba čtyřikrát a budeme ho mít celý.
+
+60
+00:03:38,931 --> 00:03:40,075
+Můžeme?
+
+61
+00:03:41,129 --> 00:03:42,467
+Jdeme na to.
+
+62
+00:03:43,848 --> 00:03:46,039
+- Proč zčervenaly dva?
+- Už ví, jak na nás.
+
+63
+00:03:50,006 --> 00:03:51,871
+- Do háje.
+- Těžká váha?
+
+64
+00:04:01,053 --> 00:04:02,830
+Na mě nemá, ale žádné ořezávátko.
+
+65
+00:04:02,857 --> 00:04:04,422
+320 kB.
+
+66
+00:04:05,140 --> 00:04:06,411
+Už jenom dvakrát.
+
+67
+00:04:11,270 --> 00:04:13,073
+Nevyděsilo vás to trochu?
+
+68
+00:04:13,117 --> 00:04:15,554
+Pravidla říkají
+neriskovat za hranici N minus 5.
+
+69
+00:04:20,616 --> 00:04:22,182
+Tohle je N.
+
+70
+00:04:22,701 --> 00:04:24,909
+Tohle N minus 1,
+
+71
+00:04:24,944 --> 00:04:27,982
+N minus 2, N minus 3, N minus 4.
+
+72
+00:04:28,597 --> 00:04:31,038
+DGSE je N minus 10.
+
+73
+00:04:31,070 --> 00:04:34,070
+Jakmile se dostanou k N minus 5,
+všeho necháme.
+
+74
+00:04:42,733 --> 00:04:43,903
+Jdeme na to.
+
+75
+00:04:44,616 --> 00:04:45,672
+A kurňa.
+
+76
+00:04:56,820 --> 00:04:57,904
+Pusť mě k tomu.
+
+77
+00:05:33,699 --> 00:05:35,195
+Tohle nejsou Ukrajinci.
+
+78
+00:05:36,901 --> 00:05:38,564
+Jsou dobří, bídáci.
+
+79
+00:05:39,761 --> 00:05:41,942
+Důkladný úklid.
+Nesmí po nás nic zůstat.
+
+80
+00:05:43,306 --> 00:05:44,362
+Kolik?
+
+81
+00:05:44,696 --> 00:05:46,191
+Máme skoro 800 kB.
+
+82
+00:05:54,808 --> 00:05:57,067
+Jenom překladač.
+Nic co by za něco stálo.
+
+83
+00:05:57,738 --> 00:05:59,383
+Jsou tady kousky C++.
+
+84
+00:06:03,703 --> 00:06:05,577
+Tohle přece není C++.
+
+85
+00:06:06,087 --> 00:06:07,671
+Konfigurační soubor XML.
+
+86
+00:06:07,715 --> 00:06:09,844
+- To je dobrá zpráva?
+- Možná.
+
+87
+00:06:10,632 --> 00:06:12,022
+Konfigurace sítě?
+
+88
+00:06:14,749 --> 00:06:15,981
+Tady.
+
+89
+00:06:17,037 --> 00:06:18,820
+IP adresa.
+
+90
+00:06:18,858 --> 00:06:23,173
+Dali ji tam, aby nemuseli při přechodu
+na operační fázi všechno přeprogramovávat.
+
+91
+00:06:23,824 --> 00:06:26,261
+- Děláme to všichni.
+- Spouštím vyhledávání.
+
+92
+00:06:42,612 --> 00:06:44,064
+Centrum 21.
+
+93
+00:06:45,780 --> 00:06:50,275
+Lidi zkoumající umělou inteligenci
+spolupracují s hackery od Dia?
+
+94
+00:06:51,300 --> 00:06:54,634
+Jestli potřebují hackery,
+už nejsou ve výzkumné fázi.
+
+95
+00:06:54,658 --> 00:06:56,866
+Zahájili zkušební fázi.
+
+96
+00:06:58,110 --> 00:07:00,233
+Prozatím se odtud
+nesmí nic dostat ven.
+
+97
+00:07:00,271 --> 00:07:01,368
+Nic.
+
+98
+00:07:01,875 --> 00:07:03,600
+Nelituju, že jsem přišla.
+
+99
+00:07:07,893 --> 00:07:10,356
+MOSUL - IRÁK
+
+100
+00:07:11,593 --> 00:07:15,520
+Víte jistě, že je ten váš výběrčí
+v západním Mosulu?
+
+101
+00:07:15,869 --> 00:07:18,200
+Naprosto. Informace od Turků.
+
+102
+00:07:18,810 --> 00:07:22,320
+Většina příslušníků Daeše,
+kteří byli v tomhle sektoru,
+
+103
+00:07:22,640 --> 00:07:23,861
+už uprchla.
+
+104
+00:07:24,125 --> 00:07:26,157
+On ne. Je raněný.
+
+105
+00:07:26,420 --> 00:07:29,262
+Takže ten váš chlápek
+je v západním Mosulu.
+
+106
+00:07:30,036 --> 00:07:32,560
+V tuhle chvíli
+je to nejhorší místo na zemi.
+
+107
+00:07:33,124 --> 00:07:36,537
+Máte moje slovo,
+že uděláme maximum,
+
+108
+00:07:37,003 --> 00:07:38,720
+abychom vám ho přivedli živého.
+
+109
+00:07:39,040 --> 00:07:41,279
+Už několik dní
+je bez lékařského ošetření.
+
+110
+00:07:41,952 --> 00:07:43,680
+Převoz by nepřežil.
+
+111
+00:07:43,830 --> 00:07:47,318
+Specialista ho bude muset
+vyslechnout přímo na místě.
+
+112
+00:07:47,556 --> 00:07:48,400
+Vy?
+
+113
+00:07:49,229 --> 00:07:50,270
+Ano.
+
+114
+00:07:50,390 --> 00:07:51,640
+Je mi líto.
+
+115
+00:07:53,505 --> 00:07:54,320
+Ne.
+
+116
+00:07:54,948 --> 00:07:58,577
+A naši američtí přátelé -
+těm taky říkáte ne?
+
+117
+00:07:59,641 --> 00:08:01,320
+Používají jiné argumenty.
+
+118
+00:08:02,109 --> 00:08:03,165
+Tak dobře.
+
+119
+00:08:15,109 --> 00:08:17,000
+Pro vaše zvláštní jednotky.
+
+120
+00:08:17,352 --> 00:08:18,680
+Infračervené?
+
+121
+00:08:19,585 --> 00:08:20,728
+Něco lepšího.
+
+122
+00:08:55,516 --> 00:08:58,235
+V téhle zóně
+je spousta odstřelovačů IS.
+
+123
+00:08:58,385 --> 00:08:59,845
+A taky kamikaze dronů.
+
+124
+00:09:00,513 --> 00:09:03,047
+Jestli chcete přežít, musíte se krýt.
+
+125
+00:09:05,264 --> 00:09:06,293
+Ulice
+
+126
+00:09:06,891 --> 00:09:08,176
+nejsou bezpečné.
+
+127
+00:09:09,509 --> 00:09:11,814
+Budeme postupovat od domu...
+
+128
+00:09:12,685 --> 00:09:13,820
+k domu.
+
+129
+00:09:14,207 --> 00:09:15,400
+Jako tunelem.
+
+130
+00:09:16,222 --> 00:09:17,216
+Až k cíli.
+
+131
+00:09:19,337 --> 00:09:20,859
+Jak se dostaneme z domu do domu?
+
+132
+00:09:21,809 --> 00:09:22,970
+Skrze zdi.
+
+133
+00:09:25,556 --> 00:09:26,404
+Jdeme.
+
+134
+00:11:01,704 --> 00:11:02,698
+Počkej!
+
+135
+00:11:17,955 --> 00:11:18,800
+Pojď sem!
+
+136
+00:11:23,243 --> 00:11:24,470
+Všichni sem.
+
+137
+00:11:25,363 --> 00:11:27,140
+Nepatříme k Daeši.
+
+138
+00:11:27,448 --> 00:11:28,800
+Pojďte sem!
+
+139
+00:11:29,392 --> 00:11:31,592
+Nestřílejte, prosím.
+
+140
+00:11:32,548 --> 00:11:33,964
+Prosím.
+
+141
+00:11:35,020 --> 00:11:36,630
+Nestřílejte.
+
+142
+00:11:37,466 --> 00:11:38,522
+Prohledejte je!
+
+143
+00:11:59,918 --> 00:12:00,912
+Jméno!
+
+144
+00:12:05,302 --> 00:12:06,367
+Jméno!
+
+145
+00:12:08,179 --> 00:12:09,516
+Pracuješ pro Daeš?
+
+146
+00:12:09,710 --> 00:12:10,862
+Ne.
+
+147
+00:12:11,022 --> 00:12:13,040
+Cos pro ně dělal, co?
+
+148
+00:12:14,448 --> 00:12:15,645
+Nemůžeme nic dělat.
+
+149
+00:12:15,838 --> 00:12:19,357
+- Dokaž, že to není pravda!
+- Jinak si tě necháme!
+
+150
+00:12:20,352 --> 00:12:21,440
+Nic jsem neudělal.
+
+151
+00:12:31,016 --> 00:12:32,125
+Tady v Mosulu...
+
+152
+00:12:33,085 --> 00:12:35,320
+nás mladí sunniti
+nemají v lásce.
+
+153
+00:12:36,100 --> 00:12:39,040
+Tenhle je jako ostatní.
+Dává přednost Daeši.
+
+154
+00:12:48,435 --> 00:12:50,141
+Chceš ho bránit?
+
+155
+00:12:55,430 --> 00:12:56,381
+Dokaž to.
+
+156
+00:12:57,304 --> 00:12:58,228
+Takhle.
+
+157
+00:13:08,061 --> 00:13:09,020
+Teď ty.
+
+158
+00:13:09,952 --> 00:13:10,760
+Prašť ho.
+
+159
+00:13:12,968 --> 00:13:14,296
+Nic na tom není.
+
+160
+00:13:14,938 --> 00:13:16,232
+Je zvyklý.
+
+161
+00:13:29,337 --> 00:13:32,100
+On nikoho mlátit nebude.
+Od toho tady není.
+
+162
+00:13:36,907 --> 00:13:37,888
+Jdeme.
+
+163
+00:13:42,336 --> 00:13:46,097
+MOSKVA
+
+164
+00:14:05,153 --> 00:14:06,209
+Kdo je?
+
+165
+00:15:01,436 --> 00:15:03,398
+Tvůj oficiální rozsudek.
+
+166
+00:15:04,347 --> 00:15:07,600
+Ve vedlejší cele
+mají jeho kopii.
+
+167
+00:15:08,623 --> 00:15:11,400
+Víš, co tady provádějí pedofilům?
+
+168
+00:15:14,031 --> 00:15:17,080
+Ta tvoje zpráva
+o Nadje el Mansúrové je výsměch.
+
+169
+00:15:18,119 --> 00:15:19,840
+Snažíš se získat čas,
+
+170
+00:15:20,345 --> 00:15:22,650
+ale já čas nemám,
+
+171
+00:15:22,810 --> 00:15:26,960
+takže buď se vrátíš do vedlejší cely
+k Rodionovi a ostatním...
+
+172
+00:15:27,787 --> 00:15:30,523
+nebo mi řekneš něco zajímavého.
+
+173
+00:15:33,145 --> 00:15:34,354
+Deset vteřin.
+
+174
+00:15:38,586 --> 00:15:39,475
+Pět,
+
+175
+00:15:40,187 --> 00:15:41,190
+čtyři,
+
+176
+00:15:41,432 --> 00:15:42,240
+tři,
+
+177
+00:15:43,183 --> 00:15:44,072
+dva...
+
+178
+00:15:44,485 --> 00:15:45,840
+Pošli ho ven.
+
+179
+00:15:47,204 --> 00:15:48,360
+Nech nás.
+
+180
+00:15:56,338 --> 00:15:58,723
+Na oddělení, kde jsem pracoval,
+
+181
+00:15:58,873 --> 00:16:00,474
+je jeden mladý kluk.
+
+182
+00:16:01,257 --> 00:16:02,960
+Přes informatiku.
+
+183
+00:16:03,298 --> 00:16:06,105
+Je to génius.
+Sežene vám cokoli.
+
+184
+00:16:06,522 --> 00:16:09,469
+To on vytváří pro naše agenty
+digitální legendy.
+
+185
+00:16:10,877 --> 00:16:12,200
+Nelíbí se mu tam.
+
+186
+00:16:12,648 --> 00:16:14,319
+Není spokojený.
+
+187
+00:16:15,005 --> 00:16:17,988
+Stěžuje si na nedostatek uznání
+
+188
+00:16:18,138 --> 00:16:19,110
+a na plat.
+
+189
+00:16:19,978 --> 00:16:22,881
+Je mnohem zajímavější než já.
+
+190
+00:16:24,474 --> 00:16:25,529
+A dál?
+
+191
+00:16:25,679 --> 00:16:28,240
+Jsem pro něj něco jako starší brácha.
+
+192
+00:16:28,822 --> 00:16:32,050
+Vím, jak na něj.
+Vím, jak s ním mluvit.
+
+193
+00:16:35,350 --> 00:16:36,400
+Jméno?
+
+194
+00:16:37,426 --> 00:16:38,930
+Sylvain Ellenstein.
+
+195
+00:16:41,601 --> 00:16:44,610
+Myslím, že ho dokážu přesvědčit,
+aby přijel a pracoval pro vás.
+
+196
+00:16:45,481 --> 00:16:49,862
+Proč by měl poslouchat
+odpadlíka, jako jsi ty?
+
+197
+00:16:50,350 --> 00:16:53,095
+Jistotu nemám,
+ale myslím, že šance tu je.
+
+198
+00:16:53,649 --> 00:16:55,240
+Za pokus to stojí.
+
+199
+00:16:55,400 --> 00:16:58,488
+Věřte mi, že tenhle kluk
+by pro vás byl kapitální úlovek.
+
+200
+00:16:59,605 --> 00:17:00,824
+Nevěřím ti.
+
+201
+00:17:06,353 --> 00:17:09,194
+Na oplátku chci ruský pas.
+
+202
+00:17:09,344 --> 00:17:11,510
+A abyste mě už nechali na pokoji.
+
+203
+00:17:13,074 --> 00:17:14,480
+To je hodně.
+
+204
+00:17:15,438 --> 00:17:16,714
+Ne, není.
+
+205
+00:17:19,239 --> 00:17:20,383
+Stráž!
+
+206
+00:17:25,810 --> 00:17:27,165
+Sundej mu pouta.
+
+207
+00:17:33,858 --> 00:17:35,089
+Napiš mi jeho jméno.
+
+208
+00:17:39,902 --> 00:17:41,793
+Tvoji nabídku nepřijímám.
+
+209
+00:17:44,969 --> 00:17:47,080
+Ale promyslím si ji.
+
+210
+00:17:56,573 --> 00:17:59,232
+- Dobrý den, Marie-Jeanne.
+- Dobrý den, Francisi.
+
+211
+00:18:00,087 --> 00:18:03,105
+- Jak se máte?
+- Dobře, díky. Už nechodíte do tělocvičny.
+
+212
+00:18:03,141 --> 00:18:04,848
+Já vím, polepším se.
+
+213
+00:18:08,077 --> 00:18:09,502
+Pánové.
+
+214
+00:18:09,537 --> 00:18:10,593
+Pane řediteli.
+
+215
+00:18:17,474 --> 00:18:20,016
+Takže tady máme Centrum 21.
+
+216
+00:18:20,052 --> 00:18:23,307
+Výzkumné centrum umělé inteligence.
+
+217
+00:18:23,333 --> 00:18:28,373
+Centrum 21 pracuje
+na ofenzivně zaměřených programech,
+
+218
+00:18:28,400 --> 00:18:31,294
+neboť využívá služeb
+skupiny hackerů kolem Dia.
+
+219
+00:18:31,321 --> 00:18:36,745
+Víme, že Centrum 21
+a skupina Deus často pracují pro FSB.
+
+220
+00:18:36,780 --> 00:18:40,783
+Poprvé máme pádný důkaz,
+že pracují spolu.
+
+221
+00:18:42,358 --> 00:18:44,197
+Tady máme Guillauma Debaillyho,
+
+222
+00:18:44,223 --> 00:18:47,293
+který nás informoval,
+že spolupracuje s FSB,
+
+223
+00:18:47,320 --> 00:18:48,991
+a kterého jsme požádali,
+
+224
+00:18:49,018 --> 00:18:52,476
+aby získal pracovníka
+jejich technické sekce.
+
+225
+00:18:52,511 --> 00:18:54,139
+Pěkně řečeno.
+
+226
+00:18:55,555 --> 00:18:57,887
+Navrhla jsem Debaillymu,
+
+227
+00:18:57,913 --> 00:18:59,840
+aby nabídl FSB,
+
+228
+00:18:59,857 --> 00:19:02,516
+že pro ně naverbuje
+jednoho našeho ajťáka.
+
+229
+00:19:02,542 --> 00:19:05,472
+Nemáme v očích Rusů
+důvěryhodnějšího zrádce, než je Debailly.
+
+230
+00:19:05,982 --> 00:19:08,199
+Protože je skutečný zrádce.
+
+231
+00:19:08,235 --> 00:19:09,554
+Správně.
+
+232
+00:19:10,161 --> 00:19:13,893
+Grobián je ideální prostředník,
+který tam našeho agenta uvede.
+
+233
+00:19:13,920 --> 00:19:18,195
+Jde o to, aby měl
+dotyčný agent správný profil.
+
+234
+00:19:18,222 --> 00:19:20,729
+Musí Centrum 21 zaujmout.
+
+235
+00:19:22,251 --> 00:19:24,796
+Tady máte instituci,
+do které je třeba proniknout...
+
+236
+00:19:25,843 --> 00:19:27,514
+a tady vstupní dveře.
+
+237
+00:19:32,947 --> 00:19:34,389
+Co na to říká technické?
+
+238
+00:19:35,260 --> 00:19:37,662
+Budu zase jednou citovat Putina -
+
+239
+00:19:37,688 --> 00:19:42,738
+"Ten, kdo ovládne výzkum
+umělé inteligence, ovládne i svět."
+
+240
+00:19:43,556 --> 00:19:46,336
+Je to jako nasadit
+ve 30. letech agenta
+
+241
+00:19:46,372 --> 00:19:48,935
+do ruského výzkumného
+jaderného střediska,
+
+242
+00:19:48,949 --> 00:19:50,779
+aby získal plány na atomovou bombu.
+
+243
+00:19:51,413 --> 00:19:53,271
+- Takže jste pro?
+- Samozřejmě.
+
+244
+00:19:53,974 --> 00:19:55,646
+Jestli tomu správně rozumím,
+
+245
+00:19:55,681 --> 00:19:59,218
+ve spárech FSB
+už skončil jeden náš agent,
+
+246
+00:19:59,235 --> 00:20:01,883
+a vy navrhujete,
+abychom tam poslali druhého.
+
+247
+00:20:02,570 --> 00:20:04,152
+Co takhle tři?
+
+248
+00:20:04,671 --> 00:20:06,949
+Nabízíte se jako dobrovolník,
+Jean-Jacquesi?
+
+249
+00:20:08,401 --> 00:20:09,474
+Micheli?
+
+250
+00:20:09,501 --> 00:20:13,464
+Příprava takové operace
+si vyžádá měsíce.
+
+251
+00:20:13,491 --> 00:20:16,236
+Ale je to příležitost,
+po jaké bychom měli skočit.
+
+252
+00:20:18,658 --> 00:20:20,418
+Je dobře, že tu jste.
+
+253
+00:20:20,453 --> 00:20:23,427
+Žena na poradě ředitelů -
+to je novinka.
+
+254
+00:20:23,453 --> 00:20:24,870
+Závan čerstvého vzduchu.
+
+255
+00:20:26,427 --> 00:20:27,535
+Děkuju.
+
+256
+00:20:29,233 --> 00:20:32,034
+Než se do toho pustím,
+chtěla bych vás o něco požádat.
+
+257
+00:20:32,703 --> 00:20:35,967
+DSEC teď na mém oddělení
+provádí vyšetřování.
+
+258
+00:20:37,559 --> 00:20:39,411
+Takže jedno nebo druhé.
+
+259
+00:20:39,437 --> 00:20:42,103
+Buď se domníváte,
+že mé oddělení trpí vážnými problémy,
+
+260
+00:20:42,138 --> 00:20:45,077
+a v tom případě by měl
+operaci připravit někdo jiný.
+
+261
+00:20:45,117 --> 00:20:47,870
+Anebo se domníváte,
+že bychom ji měli připravit my,
+
+262
+00:20:47,905 --> 00:20:49,929
+a v tom případě
+je nutné vyšetřování zastavit.
+
+263
+00:20:54,152 --> 00:20:56,511
+Já s tou operací nesouhlasím.
+
+264
+00:20:56,880 --> 00:21:00,531
+- Z bezpečnostních důvodů?
+- Z bezpečnostních důvodů.
+
+265
+00:21:00,566 --> 00:21:02,827
+Protože je do ní zapojen Debailly,
+
+266
+00:21:02,862 --> 00:21:06,755
+který je původcem
+oněch zmíněných problémů.
+
+267
+00:21:10,714 --> 00:21:12,755
+Ještě to probereme?
+
+268
+00:21:41,247 --> 00:21:43,236
+DAEŠ
+
+269
+00:21:45,901 --> 00:21:47,546
+Přiveď toho kolaboranta.
+
+270
+00:21:54,972 --> 00:21:56,292
+Dej mu svoji vestu.
+
+271
+00:21:58,743 --> 00:21:59,860
+Obleč si ji.
+
+272
+00:22:09,016 --> 00:22:10,001
+Tak běž.
+
+273
+00:22:14,686 --> 00:22:16,973
+Není jiného Boha než Alláha
+
+274
+00:22:17,897 --> 00:22:20,430
+a Mohamed je jeho poslem.
+
+275
+00:22:29,457 --> 00:22:30,548
+Tak jo.
+
+276
+00:22:42,462 --> 00:22:43,553
+Dělej.
+
+277
+00:23:21,317 --> 00:23:22,426
+Poběž!
+
+278
+00:23:24,023 --> 00:23:26,037
+Kdyby tu byl odstřelovač,
+už by střílel.
+
+279
+00:23:28,985 --> 00:23:30,876
+Můžeme počkat.
+Za hodinu se setmí.
+
+280
+00:23:31,407 --> 00:23:32,497
+Ne.
+
+281
+00:23:32,929 --> 00:23:35,797
+Odjíždějí stavět tábor.
+Nevíme, kde budou.
+
+282
+00:23:37,468 --> 00:23:40,257
+Ať pohne.
+Nebudeme na něj čekat.
+
+283
+00:23:44,123 --> 00:23:45,945
+Sakra, Jonasi!
+
+284
+00:23:56,476 --> 00:23:59,045
+Proč jsem nezůstal v kanclu, do háje?
+
+285
+00:24:04,576 --> 00:24:05,675
+Dobrá práce.
+
+286
+00:24:06,793 --> 00:24:09,590
+MOSKVA
+
+287
+00:24:34,150 --> 00:24:34,942
+Ahoj.
+
+288
+00:24:35,267 --> 00:24:36,270
+Ahoj!
+
+289
+00:24:41,377 --> 00:24:42,798
+Odjíždím.
+
+290
+00:24:43,101 --> 00:24:45,961
+Slyšel jsem.
+Proto jsem tady.
+
+291
+00:24:49,798 --> 00:24:52,834
+Musíš vrátit svoji kartu.
+
+292
+00:24:54,276 --> 00:24:55,360
+Předpisy.
+
+293
+00:24:55,842 --> 00:24:57,602
+Mám ji v kufru.
+
+294
+00:24:58,385 --> 00:24:59,478
+Je mi líto.
+
+295
+00:25:13,835 --> 00:25:16,545
+Odjíždíš kvůli tomu, co se stalo?
+
+296
+00:25:16,695 --> 00:25:17,891
+Tak trochu.
+
+297
+00:25:18,656 --> 00:25:19,782
+Chápu.
+
+298
+00:25:20,735 --> 00:25:21,914
+Já se vrátím.
+
+299
+00:25:22,406 --> 00:25:24,219
+- Určitě?
+- No jasně.
+
+300
+00:25:24,667 --> 00:25:26,330
+Odjíždím jenom na týden.
+
+301
+00:25:27,394 --> 00:25:28,780
+To rád slyším.
+
+302
+00:25:29,387 --> 00:25:33,280
+Koho bych jinak buzeroval
+se všemi těmi bezpečnostními předpisy?
+
+303
+00:25:34,785 --> 00:25:37,800
+Přestaň.
+Určitě si někoho najdeš.
+
+304
+00:25:38,155 --> 00:25:40,480
+Pravda, potřebuju novou krev.
+
+305
+00:25:46,262 --> 00:25:47,819
+Počkej, pomůžu ti.
+
+306
+00:25:56,272 --> 00:25:58,630
+- Tak šťastnou cestu, Marino.
+- Díky.
+
+307
+00:25:59,079 --> 00:26:00,873
+- A vrať se.
+- Slibuju.
+
+308
+00:26:09,451 --> 00:26:10,516
+Ne.
+
+309
+00:26:11,387 --> 00:26:13,015
+- Ne, chápu.
+- Promiň.
+
+310
+00:26:14,109 --> 00:26:16,537
+- Ne že bych...
+- Já vím, to nic.
+
+311
+00:26:17,162 --> 00:26:18,912
+Uvidíme se, až se vrátíš.
+
+312
+00:26:44,439 --> 00:26:45,671
+Tak co Moskva?
+
+313
+00:26:48,390 --> 00:26:50,791
+To se ptá kamarádka, nebo taxikář?
+
+314
+00:26:51,741 --> 00:26:53,395
+Mám kámošky, co jsou taxikářky.
+
+315
+00:26:55,739 --> 00:26:57,102
+Si to tak neber.
+
+316
+00:26:57,833 --> 00:26:59,284
+Já si to neberu.
+
+317
+00:26:59,302 --> 00:27:00,753
+Docela ujde.
+
+318
+00:27:01,598 --> 00:27:04,070
+Jsou tam strašně sympatičtí lidi.
+
+319
+00:27:11,719 --> 00:27:13,721
+Všechno je samozřejmě čisté.
+
+320
+00:27:15,916 --> 00:27:18,023
+Nenajdou nic podezřelého.
+
+321
+00:27:18,059 --> 00:27:19,329
+Fajn.
+
+322
+00:27:19,364 --> 00:27:21,669
+Nainstaloval jsem ti tam program.
+
+323
+00:27:21,692 --> 00:27:22,906
+Je to antivirus,
+
+324
+00:27:22,932 --> 00:27:26,970
+ale posílá nám všechno, se děje
+ve tvém počítači a připojených zařízeních.
+
+325
+00:27:26,997 --> 00:27:29,979
+Kdyby se ti do něj chtěl někdo nabourat,
+okamžitě to zjistíme.
+
+326
+00:27:30,006 --> 00:27:32,573
+Dej mi tvůj ruský mobil.
+Proklepnu ho.
+
+327
+00:27:42,641 --> 00:27:44,929
+Je Michail Čikovani cílem?
+
+328
+00:27:46,143 --> 00:27:47,946
+- Proč se ptáš?
+- Jenom tak.
+
+329
+00:27:49,720 --> 00:27:52,845
+Zajišťuje počítačovou bezpečnost
+v Bulgakovově institutu.
+
+330
+00:27:52,880 --> 00:27:54,869
+Je správcem sítě.
+
+331
+00:27:54,895 --> 00:27:57,253
+Mohl by být cílem,
+kdyby pracoval v Centru 21.
+
+332
+00:27:57,280 --> 00:27:58,599
+Ale nepracuje.
+
+333
+00:28:00,812 --> 00:28:02,193
+Měli jste spolu něco?
+
+334
+00:28:03,258 --> 00:28:04,331
+Ne.
+
+335
+00:28:04,375 --> 00:28:05,475
+Dobře.
+
+336
+00:28:06,284 --> 00:28:07,349
+A kdyby?
+
+337
+00:28:07,929 --> 00:28:11,295
+- Kdyby co?
+- Kdyby mezi námi k něčemu došlo.
+
+338
+00:28:12,800 --> 00:28:15,562
+- To musíš posoudit sama.
+- Takže si můžu dělat, co chci?
+
+339
+00:28:16,882 --> 00:28:18,571
+Není to Putinův syn.
+
+340
+00:28:19,336 --> 00:28:22,270
+Ani milenec manželky ředitele FSB.
+
+341
+00:28:22,851 --> 00:28:24,874
+- Není zločinec.
+- Ne.
+
+342
+00:28:25,429 --> 00:28:26,625
+Tak je to na tobě.
+
+343
+00:28:30,669 --> 00:28:32,560
+Tobě už se to stalo?
+
+344
+00:28:32,600 --> 00:28:33,775
+Tisíckrát.
+
+345
+00:28:34,645 --> 00:28:36,056
+Dělám si legraci.
+
+346
+00:28:37,408 --> 00:28:40,135
+Jsi Francouzka.
+Pracuješ v Bulgakovově institutu.
+
+347
+00:28:40,162 --> 00:28:43,539
+Jsi daleko od domova,
+máš právo vést normální život.
+
+348
+00:28:43,566 --> 00:28:44,877
+Dokonce bys měla.
+
+349
+00:29:05,167 --> 00:29:06,777
+Už to víš?
+
+350
+00:29:06,804 --> 00:29:07,965
+Ne.
+
+351
+00:29:08,000 --> 00:29:10,041
+Moje vyšetřování zastavili.
+
+352
+00:29:10,076 --> 00:29:11,343
+Nějaký důvod?
+
+353
+00:29:11,370 --> 00:29:13,164
+Jo. Ale já ho neznám.
+
+354
+00:29:14,210 --> 00:29:16,885
+Takže už nemusím přemýšlet nad tím,
+co si o mně myslíš.
+
+355
+00:29:16,920 --> 00:29:19,462
+A já už nemusím přemýšlet nad tebou.
+
+356
+00:29:45,127 --> 00:29:47,274
+Teď jsem narazil
+na Liz Bernsteinovou.
+
+357
+00:29:47,300 --> 00:29:48,426
+A?
+
+358
+00:29:49,367 --> 00:29:50,669
+Co se stalo?
+
+359
+00:29:51,808 --> 00:29:53,280
+Přesvědčila jsem ředitele,
+
+360
+00:29:53,304 --> 00:29:56,955
+že se musíme soustředit
+na choulostivou operaci, kterou chystáme.
+
+361
+00:29:58,750 --> 00:29:59,823
+Jakou?
+
+362
+00:30:16,028 --> 00:30:18,324
+Nejdřív si musíme něco vyříkat.
+
+363
+00:30:20,181 --> 00:30:21,272
+Dobře.
+
+364
+00:30:22,336 --> 00:30:23,515
+Ranil jsi mě.
+
+365
+00:30:26,400 --> 00:30:29,519
+Nechal ses přesvědčit,
+že jsem tebou manipulovala.
+
+366
+00:30:29,554 --> 00:30:30,838
+A nemanipulovala?
+
+367
+00:30:30,873 --> 00:30:33,434
+Ty si to pořád myslíš?
+To se mi snad zdá.
+
+368
+00:30:35,102 --> 00:30:36,650
+Ne, nemyslím.
+
+369
+00:30:38,348 --> 00:30:39,736
+Podělali jsme to.
+
+370
+00:30:40,187 --> 00:30:41,980
+Jasně že jsme to podělali.
+
+371
+00:30:43,583 --> 00:30:45,106
+A Henri taky.
+
+372
+00:30:46,382 --> 00:30:47,957
+I Pilous z mouky.
+
+373
+00:30:49,303 --> 00:30:51,625
+Ale nejvíc to podělal Grobián,
+nemyslíš?
+
+374
+00:30:53,860 --> 00:30:55,150
+Jasně.
+
+375
+00:30:58,441 --> 00:30:59,831
+Omlouvám se.
+
+376
+00:31:07,429 --> 00:31:08,687
+Šašku.
+
+377
+00:31:09,918 --> 00:31:15,786
+MOSKVA
+
+378
+00:31:29,732 --> 00:31:30,937
+Kolik mu je?
+
+379
+00:31:31,087 --> 00:31:32,336
+Dva a půl.
+
+380
+00:31:33,080 --> 00:31:35,313
+Dcera spí u kamarádky.
+
+381
+00:31:37,009 --> 00:31:38,319
+Je roztomilý.
+
+382
+00:31:41,156 --> 00:31:43,384
+Neprobudí se, to mi věř.
+
+383
+00:31:44,255 --> 00:31:46,208
+Ledaže by měl zlý sen.
+
+384
+00:31:46,754 --> 00:31:48,680
+A to bych ti nepřála zažít.
+
+385
+00:31:49,358 --> 00:31:52,842
+Protože někdy křičí
+uprostřed noci tak hlasitě,
+
+386
+00:31:53,554 --> 00:31:56,941
+že si lidi myslí,
+že tu někoho mučí.
+
+387
+00:32:00,117 --> 00:32:02,915
+Naštěstí, když se mu nic zlého nezdá...
+
+388
+00:32:04,609 --> 00:32:05,612
+Pojď.
+
+389
+00:32:57,423 --> 00:32:58,286
+Pojď.
+
+390
+00:33:45,071 --> 00:33:46,523
+Máš jizvy.
+
+391
+00:33:47,613 --> 00:33:48,564
+Jo.
+
+392
+00:33:56,443 --> 00:33:58,229
+Ale ruce máš jemné.
+
+393
+00:33:59,276 --> 00:34:00,771
+Ty taky.
+
+394
+00:34:05,469 --> 00:34:07,440
+Odkud máš ty jizvy?
+
+395
+00:34:13,230 --> 00:34:15,192
+Nemusíš odpovídat.
+
+396
+00:34:15,342 --> 00:34:17,510
+Taky mám jizvy,
+o kterých nechci mluvit.
+
+397
+00:34:18,672 --> 00:34:21,144
+Klidně bych ti to řekl, ale...
+
+398
+00:34:21,294 --> 00:34:23,185
+Nechceš pokazit atmosféru?
+
+399
+00:34:27,997 --> 00:34:30,179
+Budeš muset jít, začíná svítat.
+
+400
+00:34:31,630 --> 00:34:32,677
+Já vím.
+
+401
+00:37:11,293 --> 00:37:14,093
+Není sám.
+Jsou tam s ním další dva.
+
+402
+00:37:14,125 --> 00:37:17,845
+Jsou ozbrojení a minimálně jeden
+má pás s výbušninou.
+
+403
+00:37:18,478 --> 00:37:19,912
+Bude to masakr.
+
+404
+00:37:20,431 --> 00:37:23,273
+- Ať nedává rozkaz zaútočit.
+- Třesou se na to.
+
+405
+00:37:25,032 --> 00:37:28,859
+Jak poznáme toho výběrčího?
+Je tlustý, vysoký, malý?
+
+406
+00:37:30,350 --> 00:37:31,602
+Netuším.
+
+407
+00:37:35,841 --> 00:37:37,319
+Je raněný.
+
+408
+00:37:38,902 --> 00:37:42,351
+- Bude ležet. Nemůže se hýbat.
+- Jsou tam dva, co leží.
+
+409
+00:37:52,096 --> 00:37:55,461
+Náš člověk je raněný.
+Takže je to jeden z těch, co leží.
+
+410
+00:37:55,611 --> 00:37:58,004
+Navrhuju udělat rámus.
+
+411
+00:37:59,019 --> 00:38:02,002
+Ten, který vyskočí, není náš člověk.
+Okamžitě ho zastřelím.
+
+412
+00:38:02,152 --> 00:38:04,386
+Jeden z vašich mužů
+zastřelí toho sedícího.
+
+413
+00:39:26,298 --> 00:39:29,008
+- Jak je na tom?
+- Můžeš ho vyslechnout.
+
+414
+00:39:29,624 --> 00:39:31,797
+Ale podle mě to má spočítané.
+
+415
+00:39:48,191 --> 00:39:49,458
+Otevři pusu.
+
+416
+00:39:51,895 --> 00:39:53,258
+Co je to?
+
+417
+00:39:55,063 --> 00:39:56,717
+Něco proti bolesti.
+
+418
+00:40:02,550 --> 00:40:04,001
+Nech to rozpustit.
+
+419
+00:40:11,479 --> 00:40:12,880
+Nejsi voják.
+
+420
+00:40:14,523 --> 00:40:15,800
+Ty taky ne.
+
+421
+00:40:16,291 --> 00:40:17,640
+Co chceš?
+
+422
+00:40:19,757 --> 00:40:21,440
+Hledám Abú Ahmada.
+
+423
+00:40:22,977 --> 00:40:25,097
+To já taky.
+
+424
+00:40:25,571 --> 00:40:27,674
+Mám mu předat prachy.
+
+425
+00:40:28,087 --> 00:40:29,820
+Ale když jsem dorazil,
+
+426
+00:40:30,471 --> 00:40:31,440
+byl už pryč.
+
+427
+00:40:31,976 --> 00:40:33,278
+Víš, kam odjel?
+
+428
+00:40:37,059 --> 00:40:40,604
+Tohohle poslal,
+aby si ty peníze vyzvedl.
+
+429
+00:40:40,754 --> 00:40:42,496
+Přijel dneska ráno.
+
+430
+00:40:43,182 --> 00:40:45,676
+V noci se měl vrátit do Rakky.
+
+431
+00:40:46,318 --> 00:40:48,693
+Jestli hledáš Abú Ahmada,
+
+432
+00:40:48,904 --> 00:40:50,435
+najdeš ho tam.
+
+433
+00:40:53,171 --> 00:40:58,247
+MOSKVA
+
+434
+00:41:04,669 --> 00:41:05,699
+Pojď dál.
+
+435
+00:41:11,223 --> 00:41:12,006
+Kávu?
+
+436
+00:41:12,384 --> 00:41:13,519
+Ano, díky.
+
+437
+00:41:20,950 --> 00:41:22,120
+Posaď se.
+
+438
+00:41:28,372 --> 00:41:31,609
+Nikdo jménem
+Sylvain Ellenstein neexistuje.
+
+439
+00:41:35,874 --> 00:41:38,513
+Má v popisu práce
+vytvářet důvěryhodné legendy
+
+440
+00:41:38,663 --> 00:41:41,935
+a vymazat všechny stopy,
+které by jim protiřečily, takže...
+
+441
+00:41:42,692 --> 00:41:44,627
+nejspíš vymazal i sebe.
+
+442
+00:41:48,183 --> 00:41:52,151
+Sylvain Ellenstein
+určitě nebude jeho pravé jméno.
+
+443
+00:42:00,278 --> 00:42:01,377
+Děkuju.
+
+444
+00:42:19,437 --> 00:42:22,551
+Jsi v Rusku,
+abys mi prodal falešného přeběhlíka?
+
+445
+00:42:23,545 --> 00:42:25,003
+Sylvain Ellenstein
+
+446
+00:42:25,619 --> 00:42:27,782
+se podílí na kyberválce.
+
+447
+00:42:28,570 --> 00:42:30,119
+Ne na studené válce.
+
+448
+00:42:35,958 --> 00:42:38,320
+Dobře. Pověz mi o něm něco.
+
+449
+00:42:47,999 --> 00:42:50,488
+Má administrátorská práva?
+
+450
+00:42:50,648 --> 00:42:51,702
+Ano.
+
+451
+00:42:53,066 --> 00:42:54,826
+Jen pro oddělení ilegálů?
+
+452
+00:42:54,976 --> 00:43:00,750
+Mé oddělení má přístup k většině
+technických zdrojů DGSE a on je u všeho.
+
+453
+00:43:02,279 --> 00:43:03,836
+Uděláme si pauzu.
+
+454
+00:43:10,645 --> 00:43:11,763
+Haló?
+
+455
+00:43:18,509 --> 00:43:20,400
+Máte slepou klávesnici.
+
+456
+00:43:22,759 --> 00:43:23,841
+Správně.
+
+457
+00:43:29,902 --> 00:43:31,120
+Zajímá vás?
+
+458
+00:43:32,533 --> 00:43:33,597
+Kdo?
+
+459
+00:43:33,747 --> 00:43:35,194
+Ellenstein.
+
+460
+00:43:35,590 --> 00:43:36,640
+Nevím.
+
+461
+00:43:37,622 --> 00:43:39,241
+Víte to moc dobře.
+
+462
+00:43:40,718 --> 00:43:44,915
+Pracujete pro technickou
+a výzkumnou sekci FSB.
+
+463
+00:44:01,179 --> 00:44:03,932
+Kdy nastoupil
+na oddělení ilegálů?
+
+464
+00:44:04,443 --> 00:44:06,132
+Když jsem byl v Sýrii.
+
+465
+00:44:06,282 --> 00:44:09,088
+A předtím pracoval
+v technické sekci?
+
+466
+00:44:09,238 --> 00:44:10,449
+Ano.
+
+467
+00:44:10,619 --> 00:44:11,936
+V jakém oddělení?
+
+468
+00:44:12,921 --> 00:44:14,720
+Obrany a intruze.
+
+469
+00:44:15,191 --> 00:44:20,857
+Jaká byla podle vás nejobtížnější síť,
+do níž měl proniknout?
+
+470
+00:44:21,284 --> 00:44:24,601
+Síť ruské rezidentury FSB v Damašku.
+
+471
+00:44:26,035 --> 00:44:27,425
+To je nemožné.
+
+472
+00:44:29,430 --> 00:44:30,609
+Graziella.
+
+473
+00:44:33,332 --> 00:44:36,112
+Odpověď na zabezpečovací otázku.
+
+474
+00:44:37,151 --> 00:44:40,160
+Když si sekretářka ředitele
+nemohla vzpomenout na heslo.
+
+475
+00:44:40,694 --> 00:44:43,993
+Pamatuju si to, protože moje
+bývalá přítelkyně se jmenovala stejně.
+
+476
+00:44:44,380 --> 00:44:47,063
+Díky Grazielle
+se mu podařilo proniknout do sítě
+
+477
+00:44:47,213 --> 00:44:50,720
+a ověřit, že se v jejich e-mailech
+neobjevuje moje jméno.
+
+478
+00:44:52,213 --> 00:44:53,348
+Dobře.
+
+479
+00:44:54,923 --> 00:44:57,624
+Který jeho program
+na vás udělal největší dojem?
+
+480
+00:44:58,108 --> 00:45:00,404
+Ten, co se dokázal sám učit.
+
+481
+00:45:00,554 --> 00:45:02,185
+Co se měl naučit?
+
+482
+00:45:02,325 --> 00:45:06,007
+Odhalit něčí heslo z dat,
+která o něm máme.
+
+483
+00:45:06,649 --> 00:45:08,000
+To není nic těžkého.
+
+484
+00:45:09,280 --> 00:45:11,321
+Ten program napsal
+před šesti lety.
+
+485
+00:45:11,471 --> 00:45:13,275
+Než nastoupil k DGSE.
+
+486
+00:45:16,283 --> 00:45:17,392
+Kolik mu je?
+
+487
+00:45:17,713 --> 00:45:18,980
+Pětadvacet.
+
+488
+00:45:19,948 --> 00:45:22,173
+Za rok bude moc starý.
+
+489
+00:45:25,239 --> 00:45:26,760
+Má Aspergera.
+
+490
+00:45:27,553 --> 00:45:28,776
+Aspergera?
+
+491
+00:45:29,409 --> 00:45:30,482
+Ano.
+
+492
+00:45:37,767 --> 00:45:41,092
+Jste si jistý,
+že ho dokážete přimět, aby přijel?
+
+493
+00:45:52,414 --> 00:45:54,902
+To by znamenalo
+nejmíň dva roky v Rusku, ne?
+
+494
+00:45:56,791 --> 00:45:57,952
+Nejspíš jo.
+
+495
+00:45:59,113 --> 00:46:00,679
+Chtěl jsi se mnou mluvit?
+
+496
+00:46:06,150 --> 00:46:08,139
+Páni, Python.
+
+497
+00:46:09,000 --> 00:46:11,789
+- V tom jsem tě ještě programovat neviděl.
+- Trénuju.
+
+498
+00:46:12,097 --> 00:46:13,161
+Na co?
+
+499
+00:46:14,384 --> 00:46:15,466
+Césare...
+
+500
+00:46:16,178 --> 00:46:18,994
+je pro kluka jako ty zajímavé
+pracovat v curyšském Googlu?
+
+501
+00:46:19,038 --> 00:46:23,005
+Jejich výzkumné centrum umělé inteligence
+je nejvyspělejší na světě.
+
+502
+00:46:23,595 --> 00:46:25,196
+Myslíš, že by ses tam dostal?
+
+503
+00:46:26,212 --> 00:46:28,552
+- Nejsem si stoprocentně jistý.
+- Na kolik procent?
+
+504
+00:46:30,259 --> 00:46:33,321
+75... 76, 77.
+
+505
+00:46:33,796 --> 00:46:35,239
+A do Centra 21?
+
+506
+00:46:35,606 --> 00:46:37,832
+V Moskvě? Brnkačka.
+
+507
+00:46:39,151 --> 00:46:40,832
+Tuhle jsi říkal, že jsou dobří.
+
+508
+00:46:41,826 --> 00:46:42,987
+Nedostali mě.
+
+509
+00:46:44,377 --> 00:46:45,917
+Dokázal bys na ně zapůsobit?
+
+510
+00:46:46,488 --> 00:46:48,301
+Asi jo.
+
+511
+00:46:48,336 --> 00:46:50,711
+Ne že bych se jim mohl nabídnout.
+
+512
+00:46:50,755 --> 00:46:54,101
+Kdybysme ti slíbili
+flek u curyšského Googlu,
+
+513
+00:46:54,128 --> 00:46:57,436
+když se necháš najmout Centrem 21,
+co bys nám na to řekl?
+
+514
+00:46:57,937 --> 00:46:59,682
+Že mě vodíte za nos.
+
+515
+00:46:59,714 --> 00:47:01,749
+V Centru 21 by Francouze nevzali.
+
+516
+00:47:01,776 --> 00:47:03,042
+Navíc z DGSE.
+
+517
+00:47:03,069 --> 00:47:05,875
+Neměli by zájem o Francouze z DGSE?
+
+518
+00:47:05,919 --> 00:47:07,274
+Jo.
+
+519
+00:47:07,309 --> 00:47:11,066
+Ale musel by přijet
+s kufrem tajných informací.
+
+520
+00:47:21,769 --> 00:47:22,834
+Co?
+
+521
+00:47:25,900 --> 00:47:27,430
+Curyšský Google tě nemine.
+
+522
+00:47:27,765 --> 00:47:29,111
+Proč nejedeš ty?
+
+523
+00:47:29,137 --> 00:47:31,486
+To, co umím já, umí oni taky.
+
+524
+00:47:32,225 --> 00:47:33,316
+Kdežto ty...
+
+525
+00:47:34,788 --> 00:47:37,269
+Je spousta věcí,
+které umím a oni ne.
+
+526
+00:47:37,806 --> 00:47:39,108
+Ty jim ukážeš.
+
+527
+00:47:40,146 --> 00:47:41,237
+Jo.
+
+528
+00:47:42,178 --> 00:47:44,882
+Varuju tě -
+být mnou nebude žádná legrace.
+
+529
+00:47:57,717 --> 00:47:58,782
+Ne, ne!
+
+530
+00:47:58,902 --> 00:48:00,160
+Ne, prosím.
+
+531
+00:48:04,945 --> 00:48:07,520
+Potřebuju se
+aspoň pár hodin vyspat.
+
+532
+00:48:07,740 --> 00:48:09,788
+To se ti nepovede. A ty to víš.
+
+533
+00:48:09,938 --> 00:48:11,107
+Máš to marné.
+
+534
+00:48:11,267 --> 00:48:13,391
+Zítra budu vypadat jak vyoraná myš.
+
+535
+00:48:13,541 --> 00:48:15,655
+Probůh, to vypadáš už teď.
+
+536
+00:48:43,303 --> 00:48:45,599
+Pronikl jsi do sítě.
+
+537
+00:48:47,594 --> 00:48:49,688
+Jo. Jaká je odměna?
+
+538
+00:48:51,386 --> 00:48:52,661
+Odměna?
+
+539
+00:48:53,379 --> 00:48:56,159
+Jo. Překonal jsem
+tvůj obranný systém.
+
+540
+00:49:08,693 --> 00:49:09,960
+Kašlu na Igora.
+
+541
+00:49:10,488 --> 00:49:11,588
+Na Igora?
+
+542
+00:49:12,028 --> 00:49:14,984
+Na toho, co hraje basket
+a prodává čisté karty?
+
+543
+00:49:15,134 --> 00:49:18,128
+Jo. Za dvě hodiny s ním mám schůzku.
+
+544
+00:49:20,017 --> 00:49:21,081
+Pracovní?
+
+545
+00:49:21,996 --> 00:49:23,747
+Někdy pro ně dělám.
+
+546
+00:49:24,328 --> 00:49:25,635
+Zabezpečení a tak.
+
+547
+00:49:26,559 --> 00:49:28,675
+Ale posunu to, žádný problém.
+
+548
+00:49:29,493 --> 00:49:31,042
+Měl bys tam jít.
+
+549
+00:49:31,816 --> 00:49:33,206
+Nechce se mi.
+
+550
+00:49:35,014 --> 00:49:36,360
+No tak teda zůstaň.
+
+551
+00:49:41,922 --> 00:49:44,315
+<i>Byla jsem s Mišou.</i>
+
+552
+00:49:44,350 --> 00:49:47,174
+<i>Ukázalo se, že má k Igorovi Rižkovi
+mnohem blíž, než se zdálo.</i>
+
+553
+00:49:47,984 --> 00:49:50,588
+<i>Tomu inženýrovi
+přes umělou inteligenci.</i>
+
+554
+00:49:53,114 --> 00:49:57,469
+<i>Miša může být cenným zdrojem
+informací o aktivitách Centra 21.</i>
+
+555
+00:49:59,114 --> 00:50:02,044
+<i>Tím spíš, že pracuje
+na jejich systému zabezpečení.</i>
+
+556
+00:50:06,280 --> 00:50:07,890
+<i>Očekávám instrukce.</i>
+
+557
+00:50:07,890 --> 00:50:11,000
+www.titulky.com
