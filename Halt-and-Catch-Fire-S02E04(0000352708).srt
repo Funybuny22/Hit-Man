@@ -1,0 +1,2280 @@
+﻿1
+00:00:06,164 --> 00:00:09,208
+Víš, proč je zelenina po ránu lepší?
+
+2
+00:00:09,417 --> 00:00:14,422
+Obsahuje vlákninu
+a nastartuje trávení. Víš, co to je?
+
+3
+00:00:14,589 --> 00:00:17,425
+Teď jsem byla na velký.
+Můžu si dát cornflakes?
+
+4
+00:00:17,675 --> 00:00:20,219
+Víš, jak jsme mluvili
+o nových věcech?
+
+5
+00:00:23,222 --> 00:00:26,350
+Teplotu nemáš. Běž se oblíkat.
+
+6
+00:00:27,518 --> 00:00:30,771
+Mami, mně není dobře
+a táta mě nutí jít do školy.
+
+7
+00:00:30,938 --> 00:00:33,649
+Miláčku, teď nesmím nic chytit.
+
+8
+00:00:33,983 --> 00:00:38,154
+-Uvařím kafe.
+-Dík, ale musím letět do práce.
+
+9
+00:00:39,447 --> 00:00:43,701
+-Nemám teplotu? Abych to
+od Joanie nechytla. -Je zdravá.
+
+10
+00:00:47,121 --> 00:00:49,999
+Chladný jako led. Jako ty.
+
+11
+00:00:51,542 --> 00:00:54,921
+-Nech mě, jdu pozdě.
+-Jo, chápu.
+
+12
+00:00:55,171 --> 00:00:59,258
+-Nezlobím se, jen jdu pozdě.
+-Kvůli mně nesmíš přijít pozdě.
+
+13
+00:01:03,262 --> 00:01:05,515
+Dík, že jste mě vecpal do diáře.
+
+14
+00:01:05,723 --> 00:01:11,145
+Dokud to tady nezačne,
+jsem k dispozici. Co mi chcete?
+
+15
+00:01:11,395 --> 00:01:16,651
+-Příležitost.
+-Volný místo nemám.
+
+16
+00:01:16,818 --> 00:01:18,903
+Nevadí, místo nehledám.
+
+17
+00:01:19,904 --> 00:01:21,489
+Vy sedíte na zlatý žíle.
+
+18
+00:01:21,656 --> 00:01:26,119
+Za půl roku z oddělení výpočetních
+systémů udělám ziskový podnik.
+
+19
+00:01:27,203 --> 00:01:31,249
+-Dobrý, tak jo.
+-Dělám vedle sálových počítačů.
+
+20
+00:01:31,415 --> 00:01:33,751
+Každej pracovní den jedou.
+
+21
+00:01:33,918 --> 00:01:37,004
+V noci i o víkendech
+tam stojí a flákají se.
+
+22
+00:01:37,213 --> 00:01:41,843
+Pronajmeme výpočetní kapacitu
+a síť mimo pracovní dobu někomu,
+
+23
+00:01:42,009 --> 00:01:46,806
+kdo potřebuje výkonnější síť.
+Náklady žádný, jenom zisk.
+
+24
+00:01:47,306 --> 00:01:51,644
+Je tu bezpečnostní riziko.
+Jedou tam citlivé obchodní transakce.
+
+25
+00:01:51,853 --> 00:01:53,688
+Nechápete, jak mainframe pracuje.
+
+26
+00:01:53,855 --> 00:01:58,192
+S konfigurací přístupových práv
+uživatel zůstane pod kontrolou.
+
+27
+00:01:58,317 --> 00:02:03,281
+Jako v polstrované cele.
+Data firmy nikdo zvenku neuvidí.
+
+28
+00:02:03,447 --> 00:02:09,245
+Tohle oddělení bude
+inkubátor mnohem větší operace.
+
+29
+00:02:09,495 --> 00:02:13,458
+Z toho obra uděláme mohutnou,
+perspektivně uvažující entitu.
+
+30
+00:02:13,708 --> 00:02:17,628
+A vy si budete
+s Jacobem Wheelerem tykat.
+
+31
+00:02:17,795 --> 00:02:22,842
+Stačí si to jen představit,
+uvěřit a zmáčknout knoflík.
+
+32
+00:02:24,218 --> 00:02:29,307
+Když tomu věříte, proč to
+neřeknete budoucímu tchánovi?
+
+33
+00:02:31,350 --> 00:02:33,102
+Vím, kdo jste.
+
+34
+00:02:33,853 --> 00:02:37,106
+Mluvil jsem s lidmi
+z datovýho střediska.
+
+35
+00:02:42,487 --> 00:02:44,864
+Byl jsem u toho dřív,
+než její první manželství skončilo
+
+36
+00:02:45,114 --> 00:02:47,492
+a budu tu, až skončí s vámi.
+
+37
+00:03:08,471 --> 00:03:13,142
+-Můžeme? -Jo.
+-Řekni jim svoje. -Chápu.
+
+38
+00:03:23,277 --> 00:03:26,239
+Hlavně chci všem poděkovat
+
+39
+00:03:26,447 --> 00:03:30,076
+za dřinu v posledních dnech,
+kdy jste skoro nespali.
+
+40
+00:03:30,326 --> 00:03:33,037
+Všichni víte, že máme potíže,
+
+41
+00:03:33,162 --> 00:03:36,833
+abychom se udrželi,
+i když za to nikdo z nás nemůže.
+
+42
+00:03:37,166 --> 00:03:41,170
+Počítáme každý pětník,
+děkuju, že jste to vydrželi.
+
+43
+00:03:42,130 --> 00:03:47,093
+Dobrý to ještě není,
+pracujeme s třetinou našich XT
+
+44
+00:03:47,343 --> 00:03:50,847
+a předplatitelé se pořád odhlašujou.
+
+45
+00:03:52,890 --> 00:03:55,852
+Hráči asi neví, co je to čest.
+
+46
+00:03:58,062 --> 00:04:00,022
+Takže je trochu...
+
+47
+00:04:01,566 --> 00:04:04,026
+Utrácíme víc, než vyděláváme,
+
+48
+00:04:04,277 --> 00:04:07,321
+-což znamená...
+-Jsme skoro bez peněz.
+
+49
+00:04:07,989 --> 00:04:12,493
+S tím málem musíme
+pokrýt provozní náklady,
+
+50
+00:04:12,660 --> 00:04:17,081
+takže vám teď nemůžeme dát platy.
+
+51
+00:04:17,290 --> 00:04:20,960
+Ale když se zřeknete platů,
+nabízíme akcie firmy.
+
+52
+00:04:21,169 --> 00:04:23,463
+Ty budou mít za čas velkou hodnotu.
+
+53
+00:04:26,340 --> 00:04:31,179
+-Když to půjde.
+-Ano. Když to půjde.
+
+54
+00:04:31,846 --> 00:04:34,390
+Podívejte, k tomuhle jsme se upsali.
+
+55
+00:04:35,016 --> 00:04:38,519
+Je to riziko, dělat v takové firmě,
+ale nezapomeňte,
+
+56
+00:04:39,103 --> 00:04:41,689
+že to má mnohem větší výhody.
+
+57
+00:04:41,981 --> 00:04:47,069
+A to za riziko stojí.
+Ale rozhodněte se každý sám.
+
+58
+00:04:59,415 --> 00:05:04,337
+-Zůstanu.
+-Já taky. -Beru.
+
+59
+00:05:04,796 --> 00:05:07,215
+-Já taky.
+-Zůstanu.
+
+60
+00:05:09,759 --> 00:05:12,553
+-Já končím.
+-Co? Neblázni.
+
+61
+00:05:14,347 --> 00:05:16,098
+Bylo to bezvadný.
+
+62
+00:05:17,558 --> 00:05:19,852
+Studentská půjčka. Promiň.
+
+63
+00:05:24,190 --> 00:05:25,983
+Můžu s tebou mluvit?
+
+64
+00:05:26,651 --> 00:05:30,071
+Nechce se mi riskovat
+kvůli online hrám.
+
+65
+00:05:34,283 --> 00:05:35,993
+Tak piš kazety.
+
+66
+00:05:36,327 --> 00:05:40,206
+To jsi vždycky chtěl,
+nabízím ti skvělou možnost.
+
+67
+00:05:41,958 --> 00:05:44,710
+Myslím,
+že ty akcie nebudou stát za nic.
+
+68
+00:06:21,581 --> 00:06:24,917
+Halt And Catch Fire -
+PC Rebelové
+
+69
+00:06:47,123 --> 00:06:51,335
+Jsi tu už druhej den.
+Začneš zase pracovat?
+
+70
+00:06:51,752 --> 00:06:57,425
+Práce? Vždyť neplatíš.
+Spíš jsem dobrovolník.
+
+71
+00:06:58,759 --> 00:07:04,098
+Měl jsem nějaký zařizování,
+tak nesu tacos k snídani.
+
+72
+00:07:04,306 --> 00:07:07,226
+-Tady už to vypadá
+jako zajateckej tábor. -Aha.
+
+73
+00:07:07,560 --> 00:07:11,272
+A vidím složku, v ní faktury
+
+74
+00:07:11,480 --> 00:07:15,693
+a taky pár věcí,
+kde by se daly ořezat náklady.
+
+75
+00:07:16,235 --> 00:07:20,948
+-Chceš slyšet moje návrhy?
+-Jo. -Dobře.
+
+76
+00:07:27,079 --> 00:07:29,123
+Končím, jdu zase dělat hry.
+
+77
+00:07:29,331 --> 00:07:32,460
+Ale ne, jde ti to skvěle.
+Jenom šest místností.
+
+78
+00:07:32,752 --> 00:07:37,423
+-18, chceš mě asi zničit.
+-Jak je to možný?
+
+79
+00:07:37,631 --> 00:07:41,886
+Pro každý hodně rozjetý téma
+chceš založit místnost.
+
+80
+00:07:43,763 --> 00:07:46,557
+-Neuvěřitelný.
+-Dodělal jsem novou místnost.
+
+81
+00:07:46,766 --> 00:07:52,063
+Milovníci ptáků zabrali Kočičí sál
+a řešej kočkolit v krmítku.
+
+82
+00:07:52,271 --> 00:07:57,359
+-Ukaž. -Kočičáci zuřej, protože
+nemůžou probírat odstranění zápachu.
+
+83
+00:07:57,526 --> 00:08:01,405
+To štve mě, protože
+kočky a kočičáky nesnáším.
+
+84
+00:08:01,739 --> 00:08:05,326
+Uživatelé chodí
+do místností řešit problémy?
+
+85
+00:08:06,118 --> 00:08:11,624
+-Nepíšou jen o hrách?
+-Chceš diagram kočičích bab a hráčů?
+
+86
+00:08:12,041 --> 00:08:14,168
+Moc se nepřekrývá.
+
+87
+00:08:15,753 --> 00:08:18,923
+Můžeme říct Cameron o další skupinu?
+
+88
+00:08:20,674 --> 00:08:23,969
+Až bude místností 30, dej mi vědět.
+
+89
+00:08:26,931 --> 00:08:31,727
+Dostali instrukce k reinstalaci
+software a pořád se odhlašujou.
+
+90
+00:08:31,852 --> 00:08:35,064
+To je jasný. Zklamala jsi je.
+
+91
+00:08:35,231 --> 00:08:40,069
+Myslíš, že dopisy to spraví?
+Musíš poslat kytku, ne penicilin.
+
+92
+00:08:40,236 --> 00:08:43,989
+-Co máme dělat?
+-Musíte si napravit reputaci.
+
+93
+00:08:44,740 --> 00:08:48,744
+Někde máš fakturu
+za předplacenej inzerát.
+
+94
+00:08:48,953 --> 00:08:51,747
+Tak to použij a trochu to uprav.
+
+95
+00:08:51,956 --> 00:08:54,667
+Skvělý, ale na reklamní
+agenturu teď nemáme.
+
+96
+00:08:54,834 --> 00:08:58,421
+Stačí dvě slova velkým
+písmem: Přijímáme lidi.
+
+97
+00:08:58,587 --> 00:09:01,090
+Uvidí to a řeknou si,
+že se o vás mluví.
+
+98
+00:09:01,215 --> 00:09:05,678
+Někam plácněte trochu barvy.
+Nakreslete oko, to vás nezruinuje.
+
+99
+00:09:05,845 --> 00:09:09,598
+-Co fotka našich lidí při práci?
+-Jo.
+
+100
+00:09:09,932 --> 00:09:13,269
+To fakt zabere.
+Bodie a Wonderboy nad klávesnicí.
+
+101
+00:09:13,519 --> 00:09:16,689
+Nebo to připomene, jak
+Steve Jobs začínal s Apple v garáži.
+
+102
+00:09:16,897 --> 00:09:20,484
+-Je to otřepaný, ale lidi to baví.
+-A netelefonovat.
+
+103
+00:09:20,860 --> 00:09:25,573
+-Musíte lidi obcházet.
+-Je nás málo. -Jen velký ryby.
+
+104
+00:09:26,282 --> 00:09:28,409
+-Co?
+-Velryby, alfasamce.
+
+105
+00:09:28,701 --> 00:09:33,664
+Vyznačil jsem deset jmen,
+utrácejí tu nejvíc. Začněte u nich.
+
+106
+00:09:34,248 --> 00:09:39,086
+Můžeme poslat Leva. Vypadá normálně.
+
+107
+00:09:39,211 --> 00:09:42,882
+-Leva potřebuju na Komunitu.
+-Proč? -Máme 20 místností.
+
+108
+00:09:43,674 --> 00:09:46,385
+-Co? To je moc.
+-Ale je to dobrý, ne?
+
+109
+00:09:46,510 --> 00:09:49,305
+-A kdy se to stalo?
+-Dneska ráno.
+
+110
+00:09:49,472 --> 00:09:54,852
+Dámy, teď máte říct:
+"Uděláš to? Jsi skvělý prodejce."
+
+111
+00:09:55,019 --> 00:09:57,646
+Já řeknu:
+"Ne, to je uzavřená kapitola."
+
+112
+00:09:57,980 --> 00:10:01,817
+Vy: "Buď tak hodný."
+A já: "To nejde."
+
+113
+00:10:02,068 --> 00:10:05,362
+Chvíli se budeme pošťuchovat
+a já to nakonec vezmu.
+
+114
+00:10:16,874 --> 00:10:19,376
+Dík. Už to můžu převzít.
+
+115
+00:10:19,627 --> 00:10:22,171
+-Co napíšem na objednávku?
+-Jakou?
+
+116
+00:10:27,218 --> 00:10:30,096
+Co je? Proč dnes mluvím jen já?
+
+117
+00:10:30,346 --> 00:10:33,808
+Vše je dovoleno.
+Všecko, co vás napadne.
+
+118
+00:10:34,016 --> 00:10:37,812
+Berte to vážně. Jde tady o akcie.
+
+119
+00:10:41,399 --> 00:10:44,485
+-Jo?
+-Uděláme verzi Ptačí pohádky.
+
+120
+00:10:44,693 --> 00:10:48,531
+Hráči zachraňují princeznu.
+A bude to převlečenej hobit.
+
+121
+00:10:50,658 --> 00:10:53,411
+Dobře. Ale chce to něco většího.
+
+122
+00:10:53,702 --> 00:10:57,331
+Možná jsem to dobře nevysvětlil.
+
+123
+00:10:57,623 --> 00:11:01,377
+Co udělat střílečku,
+která je totálně návyková?
+
+124
+00:11:01,669 --> 00:11:04,880
+Co ukáže hráči perspektivu okolí.
+
+125
+00:11:05,005 --> 00:11:07,258
+-Online?
+-Jo.
+
+126
+00:11:07,550 --> 00:11:09,760
+Vím, že nás nejvíc omezuje grafika,
+
+127
+00:11:10,010 --> 00:11:12,263
+ale když to dokážeme, bude to úžasný.
+
+128
+00:11:12,722 --> 00:11:18,060
+Musí tam bejt dobrej nepřítel.
+Tanky a marťany ne. Něco novýho.
+
+129
+00:11:19,311 --> 00:11:23,023
+-Dobrýtro. -Promiň, jdu pozdě.
+-O to dřív můžeš odejít.
+
+130
+00:11:24,024 --> 00:11:30,281
+-Mám to. Najdi a zabij E.T.,
+než ti sežere bonbóny. -Ne.
+
+131
+00:11:32,199 --> 00:11:37,663
+-To je příšerný. -Končíme.
+Zítra to zkusíme znova. Ano?
+
+132
+00:11:40,708 --> 00:11:44,920
+Špatný nápad.
+Bonbóny sní. E.T. nemůžeš zabít.
+
+133
+00:11:45,254 --> 00:11:47,089
+Jsou to jen bonbóny.
+
+134
+00:11:47,673 --> 00:11:49,341
+-Ahoj.
+-Čau.
+
+135
+00:11:49,508 --> 00:11:54,972
+-Nepotřebuješ zůstat v posteli?
+-Ne, jen se musím nahodit.
+
+136
+00:11:55,806 --> 00:11:57,892
+-Co je to s tebou?
+-Ale nic.
+
+137
+00:11:58,476 --> 00:12:03,814
+-Neslyšel jsem budík, jsem utahanej.
+-Všichni jsme utahaný.
+
+138
+00:12:04,440 --> 00:12:07,818
+I když neplatíme,
+nemůžeš chodit pozdě do práce.
+
+139
+00:12:08,235 --> 00:12:11,322
+-Kazí to morálku.
+-Už se to nestane. -Tak jo.
+
+140
+00:12:41,974 --> 00:12:43,809
+Ahoj.
+
+141
+00:12:45,061 --> 00:12:48,773
+Neviděl jsem tě. Čekáš dlouho?
+
+142
+00:12:48,939 --> 00:12:52,026
+-Teď jsem přišel.
+-Byl jsem si zaběhat.
+
+143
+00:12:52,735 --> 00:12:55,488
+Dneska 15 km.
+
+144
+00:12:57,114 --> 00:13:01,577
+-Dáš si smoothie?
+-Jo. Od kdy to piješ?
+
+145
+00:13:02,244 --> 00:13:04,538
+Počkej, musím trochu blíž.
+
+146
+00:13:06,540 --> 00:13:10,503
+Kecal jsem, že honím formu.
+Ale rok 1985 bude můj.
+
+147
+00:13:10,795 --> 00:13:16,342
+Líp se stravuju, cvičím.
+Ani nevím, kdy jsem běhal naposled.
+
+148
+00:13:16,592 --> 00:13:21,472
+-Máš tepláky Adidas.
+-Správně. A už se to vyplatilo.
+
+149
+00:13:21,639 --> 00:13:26,394
+Doktor řekl, že krev mám
+v pořádku a tělo jako v pětadvaceti.
+
+150
+00:13:27,478 --> 00:13:29,021
+No jo.
+
+151
+00:13:31,649 --> 00:13:35,319
+Naprogramoval jsem vypínání
+spotřebičů v domě. To je, co?
+
+152
+00:13:35,528 --> 00:13:37,571
+Dělám inovaci ve Westgroup Energy.
+
+153
+00:13:37,780 --> 00:13:42,076
+-Ropa bude velkej hit
+a průmysl musí diverzifikovat. -Aha.
+
+154
+00:13:46,706 --> 00:13:49,750
+Westgroup nesmí zaspat
+dobu informačního věku.
+
+155
+00:13:50,001 --> 00:13:53,838
+-Slyšel jsi o sdílení času?
+-Jo, slyšel.
+
+156
+00:13:54,797 --> 00:13:56,966
+Westgroup má v ústředí
+
+157
+00:13:57,091 --> 00:14:01,012
+novej sálovej počítač
+IBM 3090 v beta verzi.
+
+158
+00:14:01,220 --> 00:14:04,890
+Tam začnu a pak přejdu
+k 3081 v Londýně a New Yorku.
+
+159
+00:14:05,057 --> 00:14:10,146
+-To vydělá. -ARPANET bude
+jako plechovky spojený vlascem.
+
+160
+00:14:10,396 --> 00:14:15,234
+Hledám někoho, kdo to předělá
+na přístup zvenku po telefonu.
+
+161
+00:14:15,443 --> 00:14:17,987
+-Lanaříš mě?
+-Ne, jen kecáme.
+
+162
+00:14:18,195 --> 00:14:21,782
+Jen na to někoho hledám.
+Nejlepší technik jsi ty.
+
+163
+00:14:21,991 --> 00:14:24,452
+Chtěl jsem ti to
+nabídnout prvnímu. Buď rád.
+
+164
+00:14:24,660 --> 00:14:27,371
+Jsem rád, ale nechci.
+
+165
+00:14:28,331 --> 00:14:32,960
+-Vždyť jsme se usmířili.
+-Jo. A nebudem to kazit prací.
+
+166
+00:14:33,210 --> 00:14:37,965
+Je to práce na den. Je tam
+Cardiff System. To dáš i poslepu.
+
+167
+00:14:38,132 --> 00:14:43,012
+Když jsi nás pozval na večeři,
+už jsi měl tyhle úmysly?
+
+168
+00:14:43,137 --> 00:14:45,348
+Tenkrát jsem o tomhle ještě nevěděl.
+
+169
+00:14:45,556 --> 00:14:50,102
+Sára je snoubenka, nebo jsi ji najal,
+abys vypadal důvěryhodně?
+
+170
+00:14:50,227 --> 00:14:54,649
+-Neblbni. -Blbost je opakovat
+chyby a čekat, že to dopadne jinak.
+
+171
+00:14:54,857 --> 00:14:57,526
+Víš, že tahle oblast
+techniky se hodně rozjíždí.
+
+172
+00:14:57,693 --> 00:15:01,113
+Za rok a půl budeme
+pětkrát větší než CompuServe.
+
+173
+00:15:01,280 --> 00:15:03,491
+Kde budeš ty za rok a půl?
+
+174
+00:15:03,824 --> 00:15:09,038
+Budu pít u bazénu na Maui
+za prachy, co mám za Giganta.
+
+175
+00:15:09,580 --> 00:15:12,625
+Promiň, Joe.
+Na to si najdi někoho jinýho.
+
+176
+00:15:20,466 --> 00:15:23,469
+-Ahoj, synku. Je táta doma?
+-Ne. -Kdy přijde?
+
+177
+00:15:23,719 --> 00:15:27,264
+To bych taky ráda věděla.
+Nechceme nic kupovat.
+
+178
+00:15:27,473 --> 00:15:30,142
+Nic neprodávám.
+Jmenuji se John Bosworth.
+
+179
+00:15:30,267 --> 00:15:33,312
+Hlídám spokojenost
+zákazníků firmy Mutiny.
+
+180
+00:15:33,604 --> 00:15:37,441
+Jdu se omluvit vašemu
+synovi za výpadky sítě
+
+181
+00:15:37,608 --> 00:15:42,530
+tento týden a zjistit,
+co udělat, aby se k nám vrátil.
+
+182
+00:15:42,697 --> 00:15:46,325
+Nic. Předplatný jsem zrušila já.
+
+183
+00:15:46,492 --> 00:15:49,370
+Vytahal na to
+z kreditky stovky dolarů.
+
+184
+00:15:49,704 --> 00:15:53,749
+Nepamatuju, kdy měl naposled
+doma kámoše ze školy.
+
+185
+00:15:54,208 --> 00:15:57,628
+Vaše hry jsou jako droga.
+
+186
+00:15:57,795 --> 00:16:02,550
+Netušil jsem, že naše služba
+kazí synovi společenský život.
+
+187
+00:16:02,758 --> 00:16:07,805
+-Ve které jsi třídě? -V devátý.
+-Měl bys trávit čas se spolužáky.
+
+188
+00:16:08,097 --> 00:16:12,018
+-Kecaj jen o sportu.
+-To není pravda. Co Gavin?
+
+189
+00:16:12,268 --> 00:16:14,520
+Máš přátele mezi uživateli Mutiny?
+
+190
+00:16:14,770 --> 00:16:18,899
+Jo, asi 32. Často spolu kecáme.
+
+191
+00:16:19,108 --> 00:16:22,570
+A pár jich chce proti mně hrát.
+To je taky fajn.
+
+192
+00:16:24,030 --> 00:16:28,326
+Jak si můžete všichni povídat?
+Když u toho sedíš, nic neslyším.
+
+193
+00:16:28,451 --> 00:16:34,415
+Máma je proti pokroku.
+My si píšeme. Povídáme po síti.
+
+194
+00:16:35,041 --> 00:16:38,502
+My už těmhle věcem nerozumíme,
+
+195
+00:16:38,711 --> 00:16:44,091
+ale pro syna a jeho přátele
+je Mutiny jako kostel.
+
+196
+00:16:44,759 --> 00:16:46,636
+Tam hledají společnost.
+
+197
+00:16:47,720 --> 00:16:49,847
+Někdy ji najdou jenom tam.
+
+198
+00:16:53,309 --> 00:16:56,479
+Pěkný den.
+A promiňte, že jsem zdržoval.
+
+199
+00:16:58,189 --> 00:17:01,651
+Moment, jak se jmenujete?
+
+200
+00:17:03,027 --> 00:17:04,654
+John.
+
+201
+00:17:06,614 --> 00:17:08,282
+John Bosworth.
+
+202
+00:17:13,412 --> 00:17:17,416
+-Ano?
+-Prý mě hledáš. -Jo.
+
+203
+00:17:17,625 --> 00:17:20,336
+Trochu jsem počítala.
+
+204
+00:17:20,503 --> 00:17:23,464
+Řeším, který hry zrušit,
+aby se odlehčila síť.
+
+205
+00:17:23,631 --> 00:17:26,258
+Super. A chtěla jsi poradit?
+
+206
+00:17:26,467 --> 00:17:29,804
+Říkám si, že vrchcáby
+a dáma jsou jednoduchý.
+
+207
+00:17:30,054 --> 00:17:33,683
+-Je o ně nejmenší zájem.
+-Jo, dobře.
+
+208
+00:17:33,975 --> 00:17:37,103
+A musím utnout Komunitu.
+
+209
+00:17:38,437 --> 00:17:42,984
+Co? Proč? Kapacitu linek
+to ubírá, jen když píšou.
+
+210
+00:17:43,234 --> 00:17:46,028
+A nikdo nepíše rychleji
+než telefonní modem.
+
+211
+00:17:46,195 --> 00:17:50,282
+Jde o bezpečnost.
+Komunita je nejzranitelnější místo.
+
+212
+00:17:50,491 --> 00:17:52,618
+Někdo nasadí špatnej file
+a zase nás infikuje.
+
+213
+00:17:52,910 --> 00:17:56,080
+Já nechci riskovat,
+že se to stane znova.
+
+214
+00:17:57,331 --> 00:18:00,418
+Jestli chceš, aby se
+tady lidi mohli stýkat,
+
+215
+00:18:00,668 --> 00:18:03,546
+-tak v tom vždycky
+bude nějaký riziko. -To jo.
+
+216
+00:18:04,088 --> 00:18:07,300
+Ale nechci riskovat kvůli
+něčemu tak zbytečnýmu.
+
+217
+00:18:09,051 --> 00:18:13,681
+Za týden jich je třikrát víc.
+Hodně uživatelů ani nehraje,
+
+218
+00:18:13,889 --> 00:18:18,227
+takže to nepotřebuje moc práce.
+Řeknu to na rovinu.
+
+219
+00:18:18,477 --> 00:18:22,356
+Z podnikatelskýho hlediska
+je to obrovská chyba.
+
+220
+00:18:24,442 --> 00:18:26,110
+Dobře.
+
+221
+00:18:44,503 --> 00:18:49,425
+-Promiň. -Dej to sem.
+-Omlouvám se.
+
+222
+00:18:50,509 --> 00:18:52,345
+Blbče.
+
+223
+00:19:01,604 --> 00:19:05,232
+Ježíši. Bože, tys mě vyděsila.
+
+224
+00:19:05,483 --> 00:19:08,319
+Co tu děláš? Jak dlouho jsi tady?
+
+225
+00:19:08,527 --> 00:19:13,032
+Co přišly holky domů.
+Tady by mě nikdy nehledaly.
+
+226
+00:19:15,284 --> 00:19:19,580
+-To byl zase den.
+-Tenhle pocit znám.
+
+227
+00:19:20,414 --> 00:19:23,250
+To jsem taky zažil. Co se stalo?
+
+228
+00:19:23,709 --> 00:19:27,588
+Komunita se rozjela a Cameron
+mi chce zrušit všechny místnosti.
+
+229
+00:19:27,838 --> 00:19:33,636
+A byla děsně zdvořilá.
+Tak věcná. Nesnesitelný.
+
+230
+00:19:33,844 --> 00:19:38,808
+-Chtěla jsi, aby to brala vážně.
+-Ale ne proti mně.
+
+231
+00:19:39,392 --> 00:19:41,477
+Jsme partnerky.
+
+232
+00:19:41,644 --> 00:19:44,605
+Nechceš se svlíknout
+a vlézt si do vody?
+
+233
+00:19:44,772 --> 00:19:49,360
+-Dám holky spát a objednám jídlo.
+-Nemám hlad.
+
+234
+00:19:53,114 --> 00:19:57,118
+Pamatuješ, jak ti bylo,
+když jsi prvně zapnul Giganta
+
+235
+00:19:57,326 --> 00:20:00,329
+-a věděl jsi,
+že je to něco extra? -Jo.
+
+236
+00:20:00,663 --> 00:20:05,293
+To jsem zažila, když do Komunity
+přišel první uživatel. Bylo to...
+
+237
+00:20:06,085 --> 00:20:08,921
+Nevím, asi jako porod.
+
+238
+00:20:09,130 --> 00:20:12,508
+-Zní to uhozeně.
+-Ne, to není uhozený.
+
+239
+00:20:12,967 --> 00:20:17,471
+-Ty jsi to stvořila.
+Je to tvoje dítě. -Jo.
+
+240
+00:20:20,474 --> 00:20:22,435
+Jsem ráda, že to chápeš.
+
+241
+00:20:25,479 --> 00:20:28,274
+Nevím, jestli na tohle mám.
+
+242
+00:20:28,566 --> 00:20:33,696
+Dokážeš to.
+Teď tomu asi nevěříš, ale já jo.
+
+243
+00:20:33,946 --> 00:20:35,948
+Je fuk, co si myslí Cameron.
+
+244
+00:20:36,824 --> 00:20:41,287
+Je to skvělej nápad.
+Ty na to přijdeš.
+
+245
+00:20:41,537 --> 00:20:44,081
+Jo. Ale má to cenu?
+
+246
+00:20:44,457 --> 00:20:46,917
+I když počítače poběží
+a budeme mít zálohy,
+
+247
+00:20:47,126 --> 00:20:51,047
+na nespolehlivý, po domácku
+splácaný síti dlouho nevydržíme.
+
+248
+00:20:51,380 --> 00:20:54,925
+Neboj, ty už na něco přijdeš.
+
+249
+00:20:58,846 --> 00:21:02,725
+Jsem hrozná, když tu zůstanu,
+než půjdou holky spát?
+
+250
+00:21:04,060 --> 00:21:05,645
+Ano.
+
+251
+00:21:41,822 --> 00:21:44,742
+-Ahoj.
+-Čau.
+
+252
+00:21:47,328 --> 00:21:49,080
+Končíš pozdě.
+
+253
+00:21:49,372 --> 00:21:52,792
+Nebo brzy, podle toho,
+jak máš rozvržený spaní.
+
+254
+00:21:52,959 --> 00:21:58,005
+Ve dne nic neudělám,
+když pořád zvoní telefony.
+
+255
+00:21:58,589 --> 00:22:03,970
+-Jdu si pro něco k jídlu.
+-Jasně. -Do sámošky.
+
+256
+00:22:06,722 --> 00:22:08,850
+-Já nevěděla, že tu děláš.
+-Jsem tu tajně.
+
+257
+00:22:09,058 --> 00:22:14,480
+Kvůli hrám, dělám průzkum.
+A už něco mám. Skladníka.
+
+258
+00:22:15,314 --> 00:22:18,985
+Hráč musí za 10 minut
+naplnit všecky regály
+
+259
+00:22:19,151 --> 00:22:23,698
+a musí čelit důchodcům,
+co hledají pleny pro dospělý.
+
+260
+00:22:25,324 --> 00:22:28,536
+Dělal jsem tady na střední
+a vedoucí mě sem na pár dní vzal.
+
+261
+00:22:28,744 --> 00:22:31,455
+-Jasně.
+-Jen než akcie stoupnou.
+
+262
+00:22:31,622 --> 00:22:34,500
+Skvělý. Vlastně asi moc ne.
+
+263
+00:22:34,709 --> 00:22:39,463
+Tvrdý bonbóny jsou
+v regálu na konci šestý uličky
+
+264
+00:22:39,630 --> 00:22:44,552
+a pendrek v tý samý, ale vpravo.
+
+265
+00:22:45,928 --> 00:22:49,390
+Pořád od toho všude necháváš papírky.
+
+266
+00:22:50,766 --> 00:22:54,312
+Super. Tak jo.
+
+267
+00:22:55,688 --> 00:22:57,440
+-Zatím se měj.
+-Ahoj.
+
+268
+00:23:02,236 --> 00:23:05,448
+Moje podmínky. Budu šéf.
+
+269
+00:23:05,698 --> 00:23:08,034
+Udělám to vše zadarmo,
+
+270
+00:23:08,242 --> 00:23:10,411
+ale Mutiny bude tvůj první klient.
+
+271
+00:23:10,703 --> 00:23:14,749
+A tohle je pilotní program,
+tak čekám slevu.
+
+272
+00:23:15,958 --> 00:23:19,128
+Ty jsi v Mutiny něco podělal?
+
+273
+00:23:19,378 --> 00:23:22,256
+Ne. Jen chci pomoct ženě.
+
+274
+00:23:22,465 --> 00:23:27,386
+Donna chce, abych do pilotního
+programu vzal firmu Cameron?
+
+275
+00:23:27,512 --> 00:23:31,349
+Jsou na tom zle. Teda nejsou.
+Firma je ve skvělý kondici.
+
+276
+00:23:31,766 --> 00:23:33,684
+Plácneme si?
+
+277
+00:23:38,481 --> 00:23:40,483
+Tady jsem napsal, co potřebuju.
+
+278
+00:23:40,775 --> 00:23:43,861
+Předělat mainframe na sdílení času,
+
+279
+00:23:44,070 --> 00:23:48,157
+to není sranda.
+Jen spojení T-1 potrvaj několik dní.
+
+280
+00:23:48,282 --> 00:23:50,660
+Tři rychlý linky už nainstalovali.
+
+281
+00:23:50,826 --> 00:23:54,413
+Dokonči propojení a nainstaluj
+systém sdílení času IBM.
+
+282
+00:23:54,705 --> 00:23:59,293
+Dám radši MTS.
+Je spolehlivější než IBM.
+
+283
+00:23:59,627 --> 00:24:03,798
+-Uděláš to přes noc? -Proč?
+-Zvládneš to, nebo ne?
+
+284
+00:24:04,131 --> 00:24:08,719
+-Snad jo. -Super. Sežeň ty věci,
+v osm čekám v baru naproti.
+
+285
+00:24:12,348 --> 00:24:15,309
+Nechceš to sehnat sám
+a já počkám v baru?
+
+286
+00:24:17,979 --> 00:24:20,690
+Než si trhnu nohou,
+
+287
+00:24:20,940 --> 00:24:24,068
+kdy jsi mluvil po telefonu
+se šéfem CompuServe?
+
+288
+00:24:25,111 --> 00:24:27,446
+Ale my nejsme CompuServe!
+
+289
+00:24:30,408 --> 00:24:35,580
+-Ano? -Neruším?
+-Ne. To byla jen zákaznická podpora.
+
+290
+00:24:36,581 --> 00:24:40,167
+Můžu se na něco zeptat?
+Zkusila jsi Komunitu Mutiny?
+
+291
+00:24:40,543 --> 00:24:44,797
+-Jo. A ta otázka?
+-Tohle. Na to se ptám.
+
+292
+00:24:44,964 --> 00:24:50,136
+Chtěla jsem, abys to zkusila,
+než to zrušíš. Ale už se stalo.
+
+293
+00:24:50,678 --> 00:24:54,140
+-Jo.
+-Máš oblíbenou místnost?
+
+294
+00:24:55,600 --> 00:24:59,353
+-Co?
+-Kluci je mají. Jsem zvědavá.
+
+295
+00:25:01,856 --> 00:25:03,608
+Já vím, co je Komunita.
+
+296
+00:25:05,234 --> 00:25:08,112
+Nezlob se, ale nevíš.
+
+297
+00:25:09,363 --> 00:25:13,451
+Jen text bez grafiky
+a taky bez možnosti hrát.
+
+298
+00:25:13,951 --> 00:25:15,620
+-Aha.
+-Pletu se?
+
+299
+00:25:17,121 --> 00:25:20,750
+Kód není převratnej,
+ale interakce mezi uživateli,
+
+300
+00:25:20,958 --> 00:25:23,336
+to je úplně novej způsob komunikace.
+
+301
+00:25:23,461 --> 00:25:27,548
+Lidi jsou po síti upřímnější.
+A to je návykový.
+
+302
+00:25:28,424 --> 00:25:32,178
+Tak fajn. Komunitu si vyzkouším.
+
+303
+00:25:32,803 --> 00:25:34,931
+Ale nečekej, že změním názor.
+
+304
+00:25:40,019 --> 00:25:44,607
+Protože se ti to nelíbí,
+nebo žes to nevymyslela ty?
+
+305
+00:26:02,083 --> 00:26:06,671
+-Nezapnem topení?
+-Pořiď si teplou košili, slečinko.
+
+306
+00:26:06,963 --> 00:26:10,508
+Vrátil se další předplatitel.
+To se musí oslavit.
+
+307
+00:26:10,716 --> 00:26:14,428
+-To koupila Cameron na večer.
+-Ale večer už skoro je.
+
+308
+00:26:16,013 --> 00:26:17,765
+A jedem.
+
+309
+00:26:20,393 --> 00:26:25,273
+-Pij! -Vybryndáš
+mi akcie. Z čeho budu živ?
+
+310
+00:26:27,859 --> 00:26:30,152
+"Chceš soukromý pokec s Camhome?"
+
+311
+00:26:32,697 --> 00:26:35,825
+-"Ano."
+-"Na čem pracuješ?"
+
+312
+00:26:42,957 --> 00:26:45,585
+"Teď jsem si zrovna zdřímnul."
+
+313
+00:26:55,344 --> 00:26:57,013
+"Jsem idiot."
+
+314
+00:27:02,143 --> 00:27:04,437
+"Chci ti ukázat novou věc. 3D."
+
+315
+00:27:07,773 --> 00:27:11,360
+"Až překonfiguruju hry,
+co ten kretén zmrvil, přijdu."
+
+316
+00:27:15,573 --> 00:27:18,201
+"Pozor! Gordon = Donnin manžel."
+
+317
+00:27:29,086 --> 00:27:33,049
+"Ne. Gordon = ten co jí pověsil na
+krk dvě děti a ona je teď v pasti. "
+
+318
+00:27:47,772 --> 00:27:50,650
+Dostali to všichni.
+
+319
+00:27:51,359 --> 00:27:53,277
+-Cože?
+-Všichni.
+
+320
+00:27:53,819 --> 00:27:57,657
+Jen pro příště.
+Písmeno "D", shift a vykřičník
+
+321
+00:27:57,865 --> 00:28:00,368
+znamená "poslat všem".
+
+322
+00:29:03,722 --> 00:29:06,308
+-Mám to všecko v kufru.
+-Ahoj.
+
+323
+00:29:07,309 --> 00:29:11,563
+-Na tohle jsem zapomněl,
+tak to připiš k nákladům. -Jo.
+
+324
+00:29:11,813 --> 00:29:16,735
+-Máte Anchor Steam? -Ne.
+-Tak mi dejte, co je naražený.
+
+325
+00:29:16,943 --> 00:29:19,529
+Tohle platím já.
+Zbytek do konce týdne.
+
+326
+00:29:19,821 --> 00:29:21,990
+To mě dotuješ z vlastních peněz?
+
+327
+00:29:22,282 --> 00:29:25,202
+-Sehnal jsi mi propustku?
+-Tu nepotřebuješ.
+
+328
+00:29:25,702 --> 00:29:27,788
+-Jak to?
+-Už se nedělá.
+
+329
+00:29:28,205 --> 00:29:30,999
+Tak to ji potřebuju o to víc, ne?
+
+330
+00:29:34,377 --> 00:29:37,047
+-Joe?
+-Zkoušel jsem to podle předpisů.
+
+331
+00:29:37,255 --> 00:29:42,386
+Ale zdržoval mě blbec,
+co nezná pasivní příjem.
+
+332
+00:29:42,677 --> 00:29:45,013
+Ty zase nechápeš, co je důvěra.
+
+333
+00:29:45,222 --> 00:29:48,558
+Kdybych ti řekl, že to
+dělám bokem, dělal bys drahoty.
+
+334
+00:29:48,767 --> 00:29:50,685
+Aha, bokem. To je hrozný.
+
+335
+00:29:51,061 --> 00:29:54,314
+Proč s tím nejdeš
+za budoucím tchánem?
+
+336
+00:29:54,564 --> 00:29:57,859
+Nepochopí mou vizi jako ty.
+Pro něj jsou to slova.
+
+337
+00:29:58,151 --> 00:30:00,362
+Potřebuju důkaz, aby mi uvěřil.
+
+338
+00:30:00,612 --> 00:30:03,407
+Tak se mu v noci vloupáš do baráku
+
+339
+00:30:03,615 --> 00:30:06,326
+a rozvrtáš jeho špičkovej mainframe.
+
+340
+00:30:06,618 --> 00:30:09,079
+-Je to tak lepší.
+-Aha.
+
+341
+00:30:10,872 --> 00:30:13,708
+-Sára o tom ví?
+-Je přes noc v Austinu.
+
+342
+00:30:14,000 --> 00:30:18,004
+Tak jí to zavolej,
+jestli to schválí, pomůžu ti.
+
+343
+00:30:18,213 --> 00:30:21,925
+Napřed cinkni Donně,
+že si ode mě pronajme novou síť.
+
+344
+00:30:22,175 --> 00:30:27,514
+-S Donnou nemáme tajnosti.
+-Tak volej, chci ji pozdravit.
+
+345
+00:30:29,641 --> 00:30:33,019
+-Nejradši bych ti dal pěstí!
+-Posluž si.
+
+346
+00:30:45,490 --> 00:30:48,243
+Kecala jsem. Neumím použít Komunitu.
+
+347
+00:30:50,328 --> 00:30:54,166
+Jak mě maj respektovat,
+když to neděláš ani ty?
+
+348
+00:30:55,000 --> 00:30:58,503
+-Napadlo tě to? -Ne.
+-Třeba při psaní s Tomem?
+
+349
+00:30:58,712 --> 00:31:01,631
+-Vůbec jsem nemyslela.
+-Jo.
+
+350
+00:31:01,840 --> 00:31:05,552
+-Chceš omluvu přede všema?
+-To ne. Nedělej nic.
+
+351
+00:31:05,802 --> 00:31:09,681
+Řekla jsi v soukromí
+o někom něco hnusnýho,
+
+352
+00:31:09,890 --> 00:31:13,435
+-co bys neřekla veřejně?
+-O tom teď nemluvíme!
+
+353
+00:31:13,685 --> 00:31:17,898
+Když ti Gordon vadí,
+neřeš to za mými zády.
+
+354
+00:31:18,148 --> 00:31:21,693
+A už nikdy nemluv o mých dětech!
+
+355
+00:31:25,447 --> 00:31:29,159
+-Je ti něco? -Ne.
+-Nechceš vodu? -Nechci.
+
+356
+00:31:29,409 --> 00:31:32,746
+Asi jsem chytila od Joanie chřipku.
+
+357
+00:31:37,834 --> 00:31:39,544
+Mě to fakt mrzí.
+
+358
+00:31:42,089 --> 00:31:46,676
+Cítila jsi tu svobodu,
+když sis psala s Tomem?
+
+359
+00:31:46,843 --> 00:31:52,432
+Pocit, že tam můžeš říkat,
+co veřejně vyslovit nejde?
+
+360
+00:31:53,809 --> 00:31:57,646
+Tím je Komunita důležitá.
+
+361
+00:31:57,938 --> 00:31:59,856
+Potřebuju vás tam.
+
+362
+00:32:01,024 --> 00:32:04,736
+Děláme fotku na reklamu.
+Má to vypadat jako ze střední.
+
+363
+00:32:04,945 --> 00:32:08,156
+Bez vás to bude
+jako klub abstinentů z roku 85.
+
+364
+00:32:21,461 --> 00:32:25,382
+Kluci, na chvíli odložte pivo.
+
+365
+00:32:25,799 --> 00:32:28,885
+Pět minut, ano?
+Ty se postav sem. Ty sem.
+
+366
+00:32:29,094 --> 00:32:32,139
+Pojď sem. Srovnej to. Wonderboy sem.
+
+367
+00:32:32,389 --> 00:32:37,185
+Dobrý, můžeme.
+Stůjte v řadě. Dívejte se sem.
+
+368
+00:32:37,602 --> 00:32:41,148
+-Dobrý. Kde je Bodie?
+-Asi na hajzlu.
+
+369
+00:32:41,314 --> 00:32:43,442
+Může pro něj někdo skočit?
+
+370
+00:32:43,650 --> 00:32:48,447
+To je jako ve školce.
+Trochu se zdrcněte. Dej sem to pivo.
+
+371
+00:32:49,239 --> 00:32:52,617
+Tak. Ne, ty dopředu a doprostřed.
+
+372
+00:32:52,826 --> 00:32:57,956
+Donno, dopředu a doprostřed.
+Sem. Bezva, děkuju.
+
+373
+00:32:58,165 --> 00:33:00,417
+Vypadá to dobře. Takže na tři.
+
+374
+00:33:00,625 --> 00:33:04,087
+A úsměv. Raz, dva, tři.
+
+375
+00:33:04,421 --> 00:33:06,465
+Donno, Cameron, bylo to dobrý.
+
+376
+00:33:06,673 --> 00:33:10,177
+Ale můžete se víc usmát?
+
+377
+00:33:10,427 --> 00:33:13,055
+Dobrý. Teď to půjde. Na tři.
+
+378
+00:33:13,263 --> 00:33:18,477
+-Leve, stíníš Wonderboye.
+-Bez brejlí neslyším. -Cože?
+
+379
+00:33:21,063 --> 00:33:26,443
+-Bacha. Ta košile je nová.
+-No tak. Co dělá Wonderboy?
+
+380
+00:33:26,902 --> 00:33:31,448
+Nech toho. Všichni přestaňte.
+Na chvíli se soustřeďte.
+
+381
+00:33:31,782 --> 00:33:34,326
+Skvěle. A zářivý úsměv, ano?
+
+382
+00:33:34,868 --> 00:33:38,997
+-Proboha. Raz, dva...
+-Jsem tu!
+
+383
+00:33:40,540 --> 00:33:43,794
+-Výborně. Děkuju.
+-Bylo to dobrý?
+
+384
+00:33:43,960 --> 00:33:46,046
+Katastrofa. Ale dobrý.
+
+385
+00:33:58,475 --> 00:34:00,060
+Pozor.
+
+386
+00:34:01,186 --> 00:34:02,771
+K zemi.
+
+387
+00:34:04,189 --> 00:34:05,857
+Bacha.
+
+388
+00:34:09,736 --> 00:34:12,322
+-Pozor, to jsou červený.
+-Sundej ho.
+
+389
+00:34:12,948 --> 00:34:17,160
+-Carle? -Jo?
+-Už jsi zrušil Komunitu?
+
+390
+00:34:17,411 --> 00:34:21,289
+Ne, ale než odejdu, udělám to.
+
+391
+00:34:21,581 --> 00:34:25,752
+-Jsem střízlivej.
+-Nech to ještě pár dní, jo?
+
+392
+00:34:25,961 --> 00:34:29,881
+Jasně, tak střízlivej
+zase nejsem. Měj se.
+
+393
+00:34:30,257 --> 00:34:31,967
+Jdu. Kryj mě.
+
+394
+00:34:34,094 --> 00:34:36,930
+Soustřeď se na hru.
+15 vteřin. Červený.
+
+395
+00:34:37,389 --> 00:34:40,642
+Máš 15 vteřin,
+pak tě zastřelím. Pozor.
+
+396
+00:35:11,048 --> 00:35:13,258
+-Dobrý, běž.
+-Jdu.
+
+397
+00:35:14,634 --> 00:35:16,720
+Pozor, je za stolem. Sundej ho.
+
+398
+00:35:19,306 --> 00:35:20,891
+K zemi.
+
+399
+00:35:24,853 --> 00:35:28,940
+-Chodba čistá.
+-Střelili mě. Já ji dostal.
+
+400
+00:35:32,194 --> 00:35:34,279
+-Došla munice.
+-Je po tobě.
+
+401
+00:35:36,031 --> 00:35:40,994
+-Mám ho. -Střelivo.
+-Vem si tu jeho. -Zachraň mě.
+
+402
+00:35:43,371 --> 00:35:45,957
+-Promiň.
+-Cameron, bacha. Kryj se.
+
+403
+00:35:54,716 --> 00:35:56,551
+-Dostal jsem ji.
+-Ne.
+
+404
+00:36:04,434 --> 00:36:07,437
+-Ty mě chceš asi zastřelit.
+-Proč?
+
+405
+00:36:07,687 --> 00:36:10,148
+Že neplatíš,
+ale pořád nás honíš do práce?
+
+406
+00:36:10,357 --> 00:36:13,276
+-Tak nějak.
+-A že jsi panovačná, paličatá
+
+407
+00:36:13,485 --> 00:36:18,115
+-a neumíš kritizovat?
+-Jsem děsná. -To se mi ale líbí.
+
+408
+00:36:19,783 --> 00:36:25,414
+-Proč jsi mě nezastřelila?
+-Ani nevím.
+
+409
+00:36:26,123 --> 00:36:31,169
+-Chci tě zastřelit,
+ale taky chci, abys hrál. -Jo?
+
+410
+00:36:35,841 --> 00:36:38,802
+-Mám to.
+-A co? -Tohle.
+
+411
+00:36:39,803 --> 00:36:42,222
+Uděláme tu hru online.
+
+412
+00:36:42,472 --> 00:36:44,391
+-Domácím hrám
+konkurovat nemůžeme. -Jo.
+
+413
+00:36:44,641 --> 00:36:47,185
+Ale na síti můžeme dělat něco jinýho.
+
+414
+00:36:47,602 --> 00:36:52,691
+Místo střílení na tank
+se dá střílet na jinýho uživatele.
+
+415
+00:36:53,191 --> 00:36:56,778
+Člověk není tak předvídatelnej
+jako nepřítel z počítače.
+
+416
+00:36:57,195 --> 00:37:00,907
+To bude skvělý, jako by ses
+na něj díval z očí do očí.
+
+417
+00:37:01,116 --> 00:37:04,119
+-Přítel je i nepřítel.
+-I přítele chceš občas zastřelit.
+
+418
+00:37:04,327 --> 00:37:08,415
+Jak táhnout grafiku?
+Půlku na C-64 a půlku na naší síti.
+
+419
+00:37:08,540 --> 00:37:14,087
+C-64 udělá grafiku scény
+a pohyby hráče, my pozici uživatele.
+
+420
+00:37:14,254 --> 00:37:16,923
+Aby viděli navzájem sebe a skóre.
+
+421
+00:37:17,049 --> 00:37:21,011
+Chce to protokol mezi
+naším a uživatelským počítačem.
+
+422
+00:37:21,261 --> 00:37:25,348
+-Krátký, kódovaný instrukce.
+-Aby byla hra pořád rychlá.
+
+423
+00:37:25,599 --> 00:37:30,604
+-Já jsem s tebou, blbečku.
+-Promiň, my pracujeme.
+
+424
+00:37:33,774 --> 00:37:36,526
+-Kde je Rendon?
+-Mrtvej. Já ho zabil.
+
+425
+00:37:36,818 --> 00:37:39,279
+Tak mu řekni, že mu volá holka.
+
+426
+00:37:39,529 --> 00:37:42,282
+Tome, volá tě nějaká dáma.
+
+427
+00:37:45,118 --> 00:37:47,329
+-Už musím.
+-Jo, užij si to.
+
+428
+00:37:51,124 --> 00:37:53,377
+Ty jsi džentlmen.
+
+429
+00:38:06,932 --> 00:38:10,936
+-Za dvě hodiny přijdou lidi.
+-No jo.
+
+430
+00:38:11,770 --> 00:38:15,065
+-Kdy to bude?
+-Jseš jako moje holky na výletě.
+
+431
+00:38:16,400 --> 00:38:21,029
+-Jde ti to pomalu.
+-Mám to zbouchat jako Giganta Pro?
+
+432
+00:38:22,155 --> 00:38:27,369
+Sloty už mám. Uploaduju hosting
+a výběr sdílení času, co přepne TSO.
+
+433
+00:38:27,577 --> 00:38:30,539
+Tohle není jako Gigant Pro.
+
+434
+00:38:30,705 --> 00:38:33,417
+Žádnej stroj
+nevyhoví všem uživatelům.
+
+435
+00:38:33,625 --> 00:38:35,919
+Vždycky se musí trochu hádat.
+
+436
+00:38:36,086 --> 00:38:41,049
+Nevím, co uživatel chce.
+A nechci to odhadovat.
+
+437
+00:38:41,466 --> 00:38:46,346
+Chci přesný požadavky
+a pak to postavím.
+
+438
+00:38:46,763 --> 00:38:51,768
+-Jako oblek na míru.
+-Přesně. Pak udělám všecko.
+
+439
+00:38:53,603 --> 00:38:56,356
+Přinesu ti ještě Colu.
+
+440
+00:39:21,999 --> 00:39:25,044
+-Co se stalo?
+-Nic. Jen jsem upadl.
+
+441
+00:39:25,336 --> 00:39:27,922
+-Asi jsem zakopl.
+-O co?
+
+442
+00:39:28,172 --> 00:39:31,258
+Noha se mi chytla tady za skříň.
+
+443
+00:39:32,676 --> 00:39:35,512
+V pohodě, dobrý. Pojedem dál.
+
+444
+00:39:35,846 --> 00:39:39,141
+-Už skoro vychází slunce.
+-Gordone, nevypadáš dobře.
+
+445
+00:39:40,184 --> 00:39:43,103
+Jsi snad moje máma? Dík za pití.
+
+446
+00:39:58,953 --> 00:40:01,914
+-Jsi tu brzo.
+-Tenhle není nikdy doma.
+
+447
+00:40:02,164 --> 00:40:06,877
+Chytil jsem ho jen v autě,
+když odjížděl do práce.
+
+448
+00:40:08,921 --> 00:40:11,257
+-Ukaž.
+-Jo. -Dobře.
+
+449
+00:40:17,554 --> 00:40:20,266
+Místo ti znovu nabízet nebudu.
+
+450
+00:40:20,641 --> 00:40:24,228
+Jen ti řeknu, že zítra začínáš.
+
+451
+00:40:24,561 --> 00:40:26,272
+To je tvoje kancelář.
+
+452
+00:40:26,522 --> 00:40:30,985
+Dveře si nezavírej,
+protože tohle je i kuchyně.
+
+453
+00:40:31,360 --> 00:40:33,779
+-Super.
+-První úkol.
+
+454
+00:40:35,281 --> 00:40:37,574
+Pomůžeš mi, abych vedla firmu líp.
+
+455
+00:40:39,201 --> 00:40:40,869
+Dle rozkazu, madam.
+
+456
+00:40:41,328 --> 00:40:44,582
+Vážně. Chci to umět líp.
+
+457
+00:40:48,669 --> 00:40:51,338
+Když mi bylo 23,
+dělal jsem v Cardiffu jediný.
+
+458
+00:40:51,547 --> 00:40:54,925
+Balil tranzistoráky
+do krabic. Víc nic.
+
+459
+00:40:55,301 --> 00:40:57,303
+Ani polepit mě to nenechali.
+
+460
+00:40:58,429 --> 00:41:02,391
+Pak jsem dobalil,
+odpíchnul a šel na pivo.
+
+461
+00:41:07,396 --> 00:41:10,274
+-Naučíš se to.
+-Kdy?
+
+462
+00:41:10,566 --> 00:41:15,446
+Ahoj. Mám vyvolanej film.
+
+463
+00:41:15,696 --> 00:41:21,035
+Nevím, jestli to jde použít.
+
+464
+00:41:22,494 --> 00:41:24,079
+Hele.
+
+465
+00:41:30,169 --> 00:41:33,839
+-Už jsme se asi viděli.
+John Bosworth. -Tom Rendon.
+
+466
+00:41:34,089 --> 00:41:35,799
+Ježíši.
+
+467
+00:41:41,513 --> 00:41:43,474
+Dejte tam tohle.
+
+468
+00:41:46,894 --> 00:41:52,024
+Jo. Hraj s přáteli. To bude slogan.
+
+469
+00:42:00,074 --> 00:42:03,619
+Máš dobrou náladu. Rande ti vyšlo?
+
+470
+00:42:03,994 --> 00:42:06,497
+Bylo to příšerný. Utnul jsem to.
+
+471
+00:42:06,705 --> 00:42:11,377
+-Copak? Nedala ti?
+-Moc vtipný.
+
+472
+00:42:12,419 --> 00:42:16,215
+Pořád jsem musel myslet na tu hru.
+
+473
+00:42:17,508 --> 00:42:19,510
+Víš, že já taky?
+
+474
+00:42:22,930 --> 00:42:26,267
+-Promiň.
+-Dobrý? -Jo.
+
+475
+00:42:36,735 --> 00:42:41,407
+-Donno, jak dlouho tam budeš?
+-Nevím.
+
+476
+00:42:45,953 --> 00:42:49,790
+Nechceš jít k doktorovi? Co?
+
+477
+00:42:51,000 --> 00:42:53,168
+Aby to nebylo něco vážnýho.
+
+478
+00:42:53,669 --> 00:42:57,423
+Asi jsem to chytla od Joanie.
+
+479
+00:42:57,715 --> 00:43:01,927
+Mám skvělou novinu,
+snad se ti udělá líp.
+
+480
+00:43:03,429 --> 00:43:06,015
+Víš, jak jsem měl
+v noci tu konzultaci?
+
+481
+00:43:06,223 --> 00:43:11,145
+Přesvědčil jsem ten kontakt,
+
+482
+00:43:11,312 --> 00:43:15,482
+aby pronajal síť Mutiny
+za tři dolary na hodinu.
+
+483
+00:43:15,774 --> 00:43:18,235
+Takovou smlouvu nikdo nedostane.
+
+484
+00:43:18,444 --> 00:43:21,280
+Můžete jet tisíce
+místností v Komunitě.
+
+485
+00:43:22,531 --> 00:43:26,702
+Všecko zlý je pro něco dobrý.
+Slyšíš mě?
+
+486
+00:43:28,913 --> 00:43:31,790
+Jo. Promiň.
+
+487
+00:43:32,958 --> 00:43:35,085
+To je bezvadný.
+
+488
+00:43:36,962 --> 00:43:39,715
+Co ti je, zvracíš?
+
+489
+00:43:40,925 --> 00:43:42,509
+Jo.
+
+490
+00:43:44,678 --> 00:43:46,931
+Můžeš mě chvíli nechat?
+
+491
+00:43:47,431 --> 00:43:50,434
+Jasně. Budu v kuchyni.
+
+492
+00:43:50,434 --> 00:43:54,000
+www.Titulky.com
